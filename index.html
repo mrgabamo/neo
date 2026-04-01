@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neo Fertilizantes — Tecnologia que Transforma o Campo</title>
+  <meta name="description" content="Neo Fertilizantes é distribuidora especializada em insumos agrícolas em Manhuaçu, MG. Fertilizantes, defensivos, equipamentos e produtos para colheita das melhores marcas.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Page Loader -->
+  <div class="page-loader" id="pageLoader">
+    <svg width="52" height="36" viewBox="0 0 52 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="8,0 44,0 52,36 16,36" fill="none" stroke="#00E8FF" stroke-width="1.5" opacity="0.4"/>
+      <text x="8" y="28" font-family="'Exo 2', sans-serif" font-size="28" font-weight="900" fill="#00E8FF">N</text>
+    </svg>
+    <div class="loader-bar"><div class="loader-bar-fill"></div></div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="navbar-logo">
+        <svg width="52" height="36" viewBox="0 0 52 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <polygon points="8,0 44,0 52,36 16,36" fill="#00E8FF" opacity="0.15"/>
+          <polygon points="8,0 44,0 52,36 16,36" fill="none" stroke="#00E8FF" stroke-width="1.5"/>
+          <text x="9" y="27" font-family="'Exo 2', sans-serif" font-size="22" font-weight="900" fill="#00E8FF">N</text>
+        </svg>
+        <span class="navbar-logo-text">Neo<br>Fertilizantes</span>
+      </a>
+
+      <nav class="navbar-nav" aria-label="Navegação principal">
+        <a href="index.html" class="nav-link active">Início</a>
+        <a href="catalogo.html" class="nav-link">Catálogo</a>
+        <a href="sobre.html" class="nav-link">Sobre</a>
+        <a href="contato.html" class="nav-link">Contato</a>
+      </nav>
+
+      <div class="navbar-cta">
+        <a href="https://wa.me/5533999549873" class="btn btn-primary" target="_blank" rel="noopener">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+          WhatsApp
+        </a>
+      </div>
+
+      <button class="hamburger" id="hamburger" aria-label="Abrir menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Nav -->
+  <div class="mobile-nav" id="mobileNav" aria-hidden="true">
+    <a href="index.html" class="nav-link" onclick="closeMobileNav()">Início</a>
+    <a href="catalogo.html" class="nav-link" onclick="closeMobileNav()">Catálogo</a>
+    <a href="sobre.html" class="nav-link" onclick="closeMobileNav()">Sobre</a>
+    <a href="contato.html" class="nav-link" onclick="closeMobileNav()">Contato</a>
+    <a href="https://wa.me/5533999549873" class="btn btn-primary btn-lg mt-xl" target="_blank" onclick="closeMobileNav()">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+      Fale no WhatsApp
+    </a>
+  </div>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-bg">
+      <div class="hero-bg-gradient"></div>
+      <div class="hero-bg-grid"></div>
+      <div class="hero-accent hero-accent-1"></div>
+      <div class="hero-accent hero-accent-2"></div>
+      <div class="hero-accent hero-accent-3"></div>
+    </div>
+
+    <div class="container hero-content">
+      <div class="reveal">
+        <div class="hero-label">
+          <span class="hero-label-dot"></span>
+          Manhuaçu · Minas Gerais
+        </div>
+        <h1 class="hero-title">
+          Tecnologia que<br>
+          <span class="highlight">Transforma</span><br>
+          o Campo
+        </h1>
+        <p class="hero-subtitle">
+          Distribuição especializada de insumos agrícolas, fertilizantes, defensivos e equipamentos para elevar sua produtividade com as melhores marcas do mercado.
+        </p>
+        <div class="hero-actions">
+          <a href="catalogo.html" class="btn btn-primary btn-lg">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h7"/></svg>
+            Ver Catálogo Completo
+          </a>
+          <a href="contato.html" class="btn btn-ghost btn-lg">
+            Fale Conosco
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-scroll-indicator" aria-hidden="true">
+      <div class="hero-scroll-line"></div>
+      <div class="hero-scroll-dot"></div>
+    </div>
+  </section>
+
+  <!-- Stats Bar -->
+  <section class="stats-bar">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item reveal">
+          <div class="stat-number" data-count="166">0</div>
+          <div class="stat-label">Produtos</div>
+        </div>
+        <div class="stat-item reveal reveal-delay-1">
+          <div class="stat-number" data-count="13">0</div>
+          <div class="stat-label">Marcas Parceiras</div>
+        </div>
+        <div class="stat-item reveal reveal-delay-2">
+          <div class="stat-number" data-count="4">0</div>
+          <div class="stat-label">Categorias</div>
+        </div>
+        <div class="stat-item reveal reveal-delay-3">
+          <div class="stat-number" data-suffix="+">10</div>
+          <div class="stat-label">Anos de Experiência</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories Section -->
+  <section class="section">
+    <div class="container">
+      <div class="text-center mb-xl reveal">
+        <div class="section-eyebrow" style="justify-content:center">Nosso Portfólio</div>
+        <h2 class="section-title">Soluções para <span>cada etapa</span></h2>
+        <p class="section-desc" style="margin:0 auto">Da nutrição ao manejo, da proteção à colheita — oferecemos soluções completas para o produtor rural.</p>
+      </div>
+
+      <div class="grid grid-4" style="gap:var(--space-lg)" id="categoriesGrid">
+        <a href="catalogo.html?categoria=Defensivos" class="category-card reveal reveal-delay-1">
+          <div class="category-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+          </div>
+          <div class="category-name">Defensivos</div>
+          <div class="category-desc">Herbicidas, fungicidas e inseticidas de alta eficiência para proteção das suas culturas.</div>
+          <div class="category-count" id="count-defensivos">Carregando...</div>
+        </a>
+
+        <a href="catalogo.html?categoria=Fertilizantes" class="category-card reveal reveal-delay-2">
+          <div class="category-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>
+          </div>
+          <div class="category-name">Fertilizantes</div>
+          <div class="category-desc">Nutrição foliar, granulados, organo minerais e corretivos de solo para máxima produtividade.</div>
+          <div class="category-count" id="count-fertilizantes">Carregando...</div>
+        </a>
+
+        <a href="catalogo.html?categoria=Jardinagem%2FUso+Agr%C3%ADcola" class="category-card reveal reveal-delay-3">
+          <div class="category-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
+          </div>
+          <div class="category-name">Equipamentos</div>
+          <div class="category-desc">Motosserras, roçadeiras, sopradores e derriçadores Husqvarna para uso agrícola.</div>
+          <div class="category-count" id="count-equipamentos">Carregando...</div>
+        </a>
+
+        <a href="catalogo.html?categoria=Produtos+para+colheita" class="category-card reveal reveal-delay-4">
+          <div class="category-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 7H4a2 2 0 00-2 2v10a2 2 0 002 2h16a2 2 0 002-2V9a2 2 0 00-2-2z"/><path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/></svg>
+          </div>
+          <div class="category-name">Colheita</div>
+          <div class="category-desc">Panos de café, big bags, lonas e sacaria para colheita eficiente.</div>
+          <div class="category-count" id="count-colheita">Carregando...</div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Products Section -->
+  <section class="section" style="background:var(--bg-surface);border-top:1px solid var(--border-subtle);border-bottom:1px solid var(--border-subtle)">
+    <div class="container">
+      <div class="flex justify-between items-center mb-xl" style="flex-wrap:wrap;gap:var(--space-md)">
+        <div class="reveal">
+          <div class="section-eyebrow">Destaques</div>
+          <h2 class="section-title" style="margin-bottom:0">Produtos em <span>destaque</span></h2>
+        </div>
+        <a href="catalogo.html" class="btn btn-ghost reveal">
+          Ver todos
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+
+      <div class="catalog-grid" id="featuredProducts">
+        <!-- Populated by JS -->
+        <div class="skeleton" style="height:320px;border-radius:var(--r-lg)"></div>
+        <div class="skeleton" style="height:320px;border-radius:var(--r-lg)"></div>
+        <div class="skeleton" style="height:320px;border-radius:var(--r-lg)"></div>
+        <div class="skeleton" style="height:320px;border-radius:var(--r-lg)"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Brands Section -->
+  <section class="section-sm">
+    <div class="container mb-xl reveal">
+      <div class="section-eyebrow" style="justify-content:center">Marcas Parceiras</div>
+      <h2 class="section-title text-center">Trabalhamos com as <span>melhores marcas</span></h2>
+    </div>
+
+    <div class="brands-marquee">
+      <div class="brands-track" id="brandsTrack">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="section">
+    <div class="container">
+      <div class="grid grid-2" style="gap:var(--space-3xl);align-items:center">
+        <div class="reveal">
+          <div class="section-eyebrow">Quem Somos</div>
+          <h2 class="section-title">Inovação no campo,<br><span>confiança na parceria</span></h2>
+          <p class="section-desc" style="max-width:100%;margin-bottom:var(--space-lg)">
+            A Neo Fertilizantes é uma distribuidora de insumos agrícolas localizada em Manhuaçu, MG, comprometida em oferecer produtos de alta qualidade para produtores rurais. Trabalhamos com as marcas mais reconhecidas do mercado para garantir o melhor resultado nas suas lavouras.
+          </p>
+          <p style="color:var(--text-secondary);font-size:0.95rem;line-height:1.7;margin-bottom:var(--space-xl)">
+            Nossa missão é promover o crescimento da produtividade com adubos que potencializem a qualidade do solo sem agredir o meio ambiente. Somos referência regional em nutrição e proteção de culturas.
+          </p>
+
+          <div class="about-values">
+            <div class="value-card reveal reveal-delay-1">
+              <div class="value-icon">🤝</div>
+              <div class="value-label">Parceria</div>
+            </div>
+            <div class="value-card reveal reveal-delay-2">
+              <div class="value-icon">💡</div>
+              <div class="value-label">Inovação</div>
+            </div>
+            <div class="value-card reveal reveal-delay-3">
+              <div class="value-icon">⚖️</div>
+              <div class="value-label">Equilíbrio</div>
+            </div>
+          </div>
+
+          <div class="mt-xl reveal">
+            <a href="sobre.html" class="btn btn-ghost">
+              Conhecer nossa história
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <div class="about-visual reveal reveal-delay-2">
+          <div class="about-visual-inner">
+            <div style="text-align:center;color:var(--text-muted);padding:var(--space-3xl)">
+              <!-- Parallelogram brand mark -->
+              <svg width="200" height="140" viewBox="0 0 200 140" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin:0 auto">
+                <polygon points="30,0 180,0 170,140 20,140" fill="#00E8FF" opacity="0.05"/>
+                <polygon points="30,0 180,0 170,140 20,140" fill="none" stroke="#00E8FF" stroke-width="1.5" opacity="0.3"/>
+                <text x="40" y="105" font-family="'Exo 2', sans-serif" font-size="90" font-weight="900" fill="#00E8FF" opacity="0.8">N</text>
+                <text x="130" y="70" font-family="'Exo 2', sans-serif" font-size="38" font-weight="300" fill="#00E8FF" opacity="0.5">eo</text>
+              </svg>
+              <p style="font-size:0.75rem;letter-spacing:0.15em;text-transform:uppercase;margin-top:var(--space-md);color:var(--text-muted)">Manhuaçu · MG · Brasil</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Banner -->
+  <div class="cta-banner">
+    <div class="container">
+      <div class="cta-content reveal">
+        <div class="section-eyebrow" style="justify-content:center">Atendimento Personalizado</div>
+        <h2 class="section-title">Pronto para transformar<br>sua <span>produção</span>?</h2>
+        <p>Nossa equipe está pronta para orientar você na escolha dos melhores produtos para suas culturas. Entre em contato agora mesmo.</p>
+        <div class="cta-actions">
+          <a href="https://wa.me/5533999549873" class="btn btn-primary btn-lg" target="_blank">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+            Chamar no WhatsApp
+          </a>
+          <a href="catalogo.html" class="btn btn-ghost btn-lg">Explorar Catálogo</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <a href="index.html" class="navbar-logo" style="margin-bottom:var(--space-md)">
+            <svg width="44" height="30" viewBox="0 0 52 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <polygon points="8,0 44,0 52,36 16,36" fill="#00E8FF" opacity="0.15"/>
+              <polygon points="8,0 44,0 52,36 16,36" fill="none" stroke="#00E8FF" stroke-width="1.5"/>
+              <text x="9" y="27" font-family="'Exo 2', sans-serif" font-size="22" font-weight="900" fill="#00E8FF">N</text>
+            </svg>
+            <span class="navbar-logo-text">Neo<br>Fertilizantes</span>
+          </a>
+          <p class="footer-brand-text">
+            Distribuidora especializada em insumos agrícolas em Manhuaçu, MG. Comprometida com qualidade, inovação e parceria com o produtor rural.
+          </p>
+          <div class="footer-social">
+            <a href="https://www.instagram.com/neo_atacadista/" class="social-btn" target="_blank" aria-label="Instagram">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+            </a>
+            <a href="https://wa.me/5533999549873" class="social-btn" target="_blank" aria-label="WhatsApp">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <div>
+          <div class="footer-heading">Navegação</div>
+          <div class="footer-links">
+            <a href="index.html" class="footer-link">Início</a>
+            <a href="catalogo.html" class="footer-link">Catálogo</a>
+            <a href="sobre.html" class="footer-link">Sobre Nós</a>
+            <a href="contato.html" class="footer-link">Contato</a>
+          </div>
+        </div>
+
+        <div>
+          <div class="footer-heading">Categorias</div>
+          <div class="footer-links">
+            <a href="catalogo.html?categoria=Defensivos" class="footer-link">Defensivos</a>
+            <a href="catalogo.html?categoria=Fertilizantes" class="footer-link">Fertilizantes</a>
+            <a href="catalogo.html?categoria=Jardinagem%2FUso+Agr%C3%ADcola" class="footer-link">Equipamentos</a>
+            <a href="catalogo.html?categoria=Produtos+para+colheita" class="footer-link">Colheita</a>
+          </div>
+        </div>
+
+        <div>
+          <div class="footer-heading">Contato</div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 1h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 8.69a16 16 0 006.4 6.4l1.06-1.35a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+            <div>
+              <div>+55 33 99954-9873</div>
+              <div style="font-size:0.75rem;margin-top:2px;color:var(--text-muted)">WhatsApp disponível</div>
+            </div>
+          </div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <div>Manhuaçu, MG<br>Brasil</div>
+          </div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/></svg>
+            <a href="https://www.instagram.com/neo_atacadista/" style="color:var(--text-secondary)" target="_blank">@neo_atacadista</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>&copy; 2025 Neo Fertilizantes. Todos os direitos reservados.</span>
+        <span>Manhuaçu · MG · Brasil</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- WhatsApp Float -->
+  <a href="https://wa.me/5533999549873" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Fale conosco pelo WhatsApp">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+    <span class="whatsapp-float-text">Fale Conosco</span>
+  </a>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

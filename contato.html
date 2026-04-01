@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato — Neo Fertilizantes</title>
+  <meta name="description" content="Entre em contato com a Neo Fertilizantes. WhatsApp, localização em Manhuaçu, MG e formulário de contato.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Page Loader -->
+  <div class="page-loader" id="pageLoader">
+    <svg width="52" height="36" viewBox="0 0 52 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="8,0 44,0 52,36 16,36" fill="none" stroke="#00E8FF" stroke-width="1.5" opacity="0.4"/>
+      <text x="8" y="28" font-family="'Exo 2', sans-serif" font-size="28" font-weight="900" fill="#00E8FF">N</text>
+    </svg>
+    <div class="loader-bar"><div class="loader-bar-fill"></div></div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar scrolled" id="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="navbar-logo">
+        <svg width="52" height="36" viewBox="0 0 52 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <polygon points="8,0 44,0 52,36 16,36" fill="#00E8FF" opacity="0.15"/>
+          <polygon points="8,0 44,0 52,36 16,36" fill="none" stroke="#00E8FF" stroke-width="1.5"/>
+          <text x="9" y="27" font-family="'Exo 2', sans-serif" font-size="22" font-weight="900" fill="#00E8FF">N</text>
+        </svg>
+        <span class="navbar-logo-text">Neo<br>Fertilizantes</span>
+      </a>
+
+      <nav class="navbar-nav">
+        <a href="index.html" class="nav-link">Início</a>
+        <a href="catalogo.html" class="nav-link">Catálogo</a>
+        <a href="sobre.html" class="nav-link">Sobre</a>
+        <a href="contato.html" class="nav-link active">Contato</a>
+      </nav>
+
+      <div class="navbar-cta">
+        <a href="https://wa.me/5533999549873" class="btn btn-primary" target="_blank" rel="noopener">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+          WhatsApp
+        </a>
+      </div>
+
+      <button class="hamburger" id="hamburger" aria-label="Abrir menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Nav -->
+  <div class="mobile-nav" id="mobileNav" aria-hidden="true">
+    <a href="index.html" class="nav-link" onclick="closeMobileNav()">Início</a>
+    <a href="catalogo.html" class="nav-link" onclick="closeMobileNav()">Catálogo</a>
+    <a href="sobre.html" class="nav-link" onclick="closeMobileNav()">Sobre</a>
+    <a href="contato.html" class="nav-link" onclick="closeMobileNav()">Contato</a>
+    <a href="https://wa.me/5533999549873" class="btn btn-primary btn-lg mt-xl" target="_blank" onclick="closeMobileNav()">Fale no WhatsApp</a>
+  </div>
+
+  <!-- Page Banner -->
+  <div class="contact-hero">
+    <div class="container">
+      <div class="reveal">
+        <div class="section-eyebrow">Fale Conosco</div>
+        <h1 style="font-size:clamp(2rem,4vw,3.2rem);margin-bottom:var(--space-md)">
+          Entre em <span style="color:var(--neo-cyan)">Contato</span>
+        </h1>
+        <p style="color:var(--text-secondary);font-size:1.05rem;max-width:560px">
+          Estamos prontos para ajudar você a encontrar os melhores produtos para suas culturas. Entre em contato por WhatsApp, telefone ou pelo formulário abaixo.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact Section -->
+  <section class="section">
+    <div class="container">
+      <div class="contact-grid">
+
+        <!-- Left: Info + WhatsApp CTA -->
+        <div>
+          <!-- WhatsApp Primary CTA -->
+          <div style="background:linear-gradient(135deg,rgba(37,211,102,0.08) 0%,rgba(37,211,102,0.03) 100%);border:1px solid rgba(37,211,102,0.2);border-radius:var(--r-xl);padding:var(--space-xl);margin-bottom:var(--space-xl)" class="reveal">
+            <div style="display:flex;align-items:center;gap:var(--space-md);margin-bottom:var(--space-md)">
+              <div style="width:52px;height:52px;background:rgba(37,211,102,0.15);border-radius:var(--r-lg);display:flex;align-items:center;justify-content:center;color:#25D366;flex-shrink:0">
+                <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+              </div>
+              <div>
+                <div style="font-family:var(--font-heading);font-weight:700;font-size:1.1rem;color:var(--text-primary)">WhatsApp</div>
+                <div style="color:var(--text-secondary);font-size:0.875rem">Resposta rápida e atendimento personalizado</div>
+              </div>
+            </div>
+            <p style="color:var(--text-secondary);font-size:0.9rem;line-height:1.6;margin-bottom:var(--space-lg)">
+              A forma mais rápida de falar com nossa equipe. Tire dúvidas sobre produtos, preços e disponibilidade diretamente pelo WhatsApp.
+            </p>
+            <a href="https://wa.me/5533999549873" class="btn btn-primary btn-lg" target="_blank" rel="noopener" style="background:#25D366;width:100%;justify-content:center">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+              Chamar: +55 33 99954-9873
+            </a>
+          </div>
+
+          <!-- Contact Cards -->
+          <div class="contact-info-card reveal">
+            <div class="contact-info-icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            </div>
+            <div>
+              <div class="contact-info-label">Localização</div>
+              <div class="contact-info-value">
+                Manhuaçu, MG — Brasil<br>
+                <span style="font-size:0.8rem">Zona da Mata Mineira</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-info-card reveal reveal-delay-1">
+            <div class="contact-info-icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1.5" fill="currentColor"/></svg>
+            </div>
+            <div>
+              <div class="contact-info-label">Instagram</div>
+              <div class="contact-info-value">
+                <a href="https://www.instagram.com/neo_atacadista/" target="_blank" style="color:var(--neo-cyan)">@neo_atacadista</a><br>
+                <span style="font-size:0.8rem">Siga para novidades e produtos</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-info-card reveal reveal-delay-2">
+            <div class="contact-info-icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            </div>
+            <div>
+              <div class="contact-info-label">Horário de Atendimento</div>
+              <div class="contact-info-value">
+                Segunda a Sexta: 8h às 18h<br>
+                Sábado: 8h às 12h
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: Contact Form + Map -->
+        <div>
+          <!-- Contact Form -->
+          <div class="contact-form reveal" style="margin-bottom:var(--space-xl)">
+            <h3 style="font-size:1.3rem;margin-bottom:var(--space-sm);font-family:var(--font-heading)">Envie uma mensagem</h3>
+            <p style="color:var(--text-secondary);font-size:0.875rem;margin-bottom:var(--space-xl)">Preencha o formulário e entraremos em contato em breve.</p>
+
+            <form id="contactForm" novalidate>
+              <div class="form-grid">
+                <div class="form-group">
+                  <label class="form-label" for="nome">Nome *</label>
+                  <input type="text" id="nome" name="nome" class="form-input" placeholder="Seu nome completo" required>
+                </div>
+                <div class="form-group">
+                  <label class="form-label" for="telefone">WhatsApp / Telefone</label>
+                  <input type="tel" id="telefone" name="telefone" class="form-input" placeholder="(00) 00000-0000">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="assunto">Assunto</label>
+                <select id="assunto" name="assunto" class="form-input" style="appearance:none;cursor:pointer">
+                  <option value="">Selecione o assunto...</option>
+                  <option value="Orçamento de produtos">Orçamento de produtos</option>
+                  <option value="Informações sobre produto específico">Informações sobre produto específico</option>
+                  <option value="Parceria comercial">Parceria comercial</option>
+                  <option value="Outro">Outro</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="mensagem">Mensagem *</label>
+                <textarea id="mensagem" name="mensagem" class="form-textarea" placeholder="Descreva o que você precisa. Ex: Tenho interesse em produtos para cafeicultura..." required></textarea>
+              </div>
+
+              <button type="submit" class="btn btn-primary btn-lg" style="width:100%;justify-content:center" id="formSubmitBtn">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+                Enviar via WhatsApp
+              </button>
+
+              <p style="text-align:center;font-size:0.75rem;color:var(--text-muted);margin-top:var(--space-md)">
+                Ao enviar, você será redirecionado ao WhatsApp com sua mensagem pronta.
+              </p>
+            </form>
+          </div>
+
+          <!-- Map -->
+          <div class="map-container reveal reveal-delay-1">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59580.04793490157!2d-42.07263!3d-20.3575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb0c22c9e7b56f1%3A0x6a60b4e4a4e4e4e4!2sManhua%C3%A7u%2C%20MG!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+              title="Localização Neo Fertilizantes - Manhuaçu, MG"
+              style="border:0">
+            </iframe>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <a href="index.html" class="navbar-logo" style="margin-bottom:var(--space-md)">
+            <svg width="44" height="30" viewBox="0 0 52 36" fill="none">
+              <polygon points="8,0 44,0 52,36 16,36" fill="#00E8FF" opacity="0.15"/>
+              <polygon points="8,0 44,0 52,36 16,36" fill="none" stroke="#00E8FF" stroke-width="1.5"/>
+              <text x="9" y="27" font-family="'Exo 2', sans-serif" font-size="22" font-weight="900" fill="#00E8FF">N</text>
+            </svg>
+            <span class="navbar-logo-text">Neo<br>Fertilizantes</span>
+          </a>
+          <p class="footer-brand-text">Distribuidora especializada em insumos agrícolas em Manhuaçu, MG.</p>
+          <div class="footer-social">
+            <a href="https://www.instagram.com/neo_atacadista/" class="social-btn" target="_blank" aria-label="Instagram">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+            </a>
+            <a href="https://wa.me/5533999549873" class="social-btn" target="_blank" aria-label="WhatsApp">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+            </a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-heading">Navegação</div>
+          <div class="footer-links">
+            <a href="index.html" class="footer-link">Início</a>
+            <a href="catalogo.html" class="footer-link">Catálogo</a>
+            <a href="sobre.html" class="footer-link">Sobre Nós</a>
+            <a href="contato.html" class="footer-link">Contato</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-heading">Categorias</div>
+          <div class="footer-links">
+            <a href="catalogo.html?categoria=Defensivos" class="footer-link">Defensivos</a>
+            <a href="catalogo.html?categoria=Fertilizantes" class="footer-link">Fertilizantes</a>
+            <a href="catalogo.html?categoria=Jardinagem%2FUso+Agr%C3%ADcola" class="footer-link">Equipamentos</a>
+            <a href="catalogo.html?categoria=Produtos+para+colheita" class="footer-link">Colheita</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-heading">Contato</div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 1h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 8.69a16 16 0 006.4 6.4l1.06-1.35a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+            <div>+55 33 99954-9873</div>
+          </div>
+          <div class="footer-contact-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <div>Manhuaçu, MG · Brasil</div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2025 Neo Fertilizantes. Todos os direitos reservados.</span>
+        <span>Manhuaçu · MG · Brasil</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- WhatsApp Float -->
+  <a href="https://wa.me/5533999549873" class="whatsapp-float" target="_blank" rel="noopener" aria-label="WhatsApp">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+    <span class="whatsapp-float-text">Fale Conosco</span>
+  </a>
+
+  <script src="js/main.js"></script>
+  <script>
+    // Contact form → WhatsApp redirect
+    document.getElementById('contactForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const nome = document.getElementById('nome').value.trim();
+      const telefone = document.getElementById('telefone').value.trim();
+      const assunto = document.getElementById('assunto').value;
+      const mensagem = document.getElementById('mensagem').value.trim();
+
+      if (!nome || !mensagem) {
+        alert('Por favor, preencha seu nome e a mensagem.');
+        return;
+      }
+
+      const text = [
+        `Olá! Meu nome é *${nome}*.`,
+        telefone ? `📞 Telefone: ${telefone}` : '',
+        assunto ? `📋 Assunto: ${assunto}` : '',
+        '',
+        mensagem
+      ].filter(Boolean).join('\n');
+
+      const encoded = encodeURIComponent(text);
+      window.open(`https://wa.me/5533999549873?text=${encoded}`, '_blank');
+    });
+  </script>
+</body>
+</html>

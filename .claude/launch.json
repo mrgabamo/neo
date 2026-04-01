@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "neo-site",
+      "runtimeExecutable": "/usr/bin/ruby",
+      "runtimeArgs": ["-e", "require 'webrick'; s=WEBrick::HTTPServer.new(:Port=>8765,:DocumentRoot=>'/tmp/neo-preview'); trap('INT'){s.shutdown}; s.start"],
+      "port": 8765
+    }
+  ]
+}
