@@ -24,7 +24,14 @@
       "Bash(git -C:*)",
       "Bash(gh auth:*)",
       "Bash(git config:*)",
-      "Bash(ssh -T git@github.com)"
+      "Bash(ssh -T git@github.com)",
+      "Bash(python3:*)",
+      "Bash(cp /Users/mrgabamo/Documents/GitHub/neo/js/catalog.js /Users/mrgabamo/Documents/GitHub/neo/js/main.js /Users/mrgabamo/Documents/GitHub/neo/js/product.js /Users/mrgabamo/Documents/GitHub/neo/data/products.json /tmp/neo-preview/js/)",
+      "Bash(cp /Users/mrgabamo/Documents/GitHub/neo/data/products.json /tmp/neo-preview/data/)",
+      "Bash(cp /Users/mrgabamo/Documents/GitHub/neo/js/catalog.js /Users/mrgabamo/Documents/GitHub/neo/js/main.js /Users/mrgabamo/Documents/GitHub/neo/js/product.js /tmp/neo-preview/js/)",
+      "Bash(cp /Users/mrgabamo/Documents/GitHub/neo/catalogo.html /Users/mrgabamo/Documents/GitHub/neo/index.html /Users/mrgabamo/Documents/GitHub/neo/produto.html /Users/mrgabamo/Documents/GitHub/neo/sobre.html /Users/mrgabamo/Documents/GitHub/neo/contato.html /tmp/neo-preview/)",
+      "Bash(cp /Users/mrgabamo/Documents/GitHub/neo/images/logo/neo-logo.svg /Users/mrgabamo/Documents/GitHub/neo/images/logo/neo-logo-icon.svg /tmp/neo-preview/images/logo/)",
+      "Bash(cp /Users/mrgabamo/Documents/GitHub/neo/catalogo.html /Users/mrgabamo/Documents/GitHub/neo/contato.html /Users/mrgabamo/Documents/GitHub/neo/index.html /Users/mrgabamo/Documents/GitHub/neo/produto.html /Users/mrgabamo/Documents/GitHub/neo/sobre.html /tmp/neo-preview/)"
     ]
   }
 }

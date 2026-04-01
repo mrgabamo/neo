@@ -207,7 +207,7 @@ async function loadHomepageData() {
   if (!document.getElementById('featuredProducts')) return;
 
   try {
-    const res = await fetch('data/products.json');
+    const res = await fetch('data/products.json?v=2');
     const data = await res.json();
 
     // Category counts

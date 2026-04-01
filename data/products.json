@@ -362,7 +362,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-amino-1l.png",
+      "description": "Neo Amino é um bioestimulante formulado com aminoácidos de alta performance, essencial para potencializar o desenvolvimento das plantas. Favorece a absorção e translocação eficiente de nutrientes, estimulando o crescimento vegetativo, a formação de raízes e a resistência a estresses bióticos e abióticos. Compatível com defensivos agrícolas, proporcionando praticidade nas aplicações foliares e via fertirrigação."
     },
     {
       "id": "neo-amino-5lt",
@@ -376,7 +377,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-amino-5l.png",
+      "description": "Neo Amino é um bioestimulante formulado com aminoácidos de alta performance, essencial para potencializar o desenvolvimento das plantas. Favorece a absorção e translocação eficiente de nutrientes, estimulando o crescimento vegetativo, a formação de raízes e a resistência a estresses bióticos e abióticos. Compatível com defensivos agrícolas, proporcionando praticidade nas aplicações foliares e via fertirrigação."
     },
     {
       "id": "neo-amino-20lt",
@@ -390,7 +392,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-amino-20l.png",
+      "description": "Neo Amino é um bioestimulante formulado com aminoácidos de alta performance, essencial para potencializar o desenvolvimento das plantas. Favorece a absorção e translocação eficiente de nutrientes, estimulando o crescimento vegetativo, a formação de raízes e a resistência a estresses bióticos e abióticos. Compatível com defensivos agrícolas, proporcionando praticidade nas aplicações foliares e via fertirrigação."
     },
     {
       "id": "neo-boro-5lt",
@@ -404,7 +407,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-boro-5l.png",
+      "description": "Neo Boro é uma solução líquida de alta pureza e concentração, desenvolvida para atender às necessidades das plantas em diferentes estágios de desenvolvimento. Rico em boro solúvel (Boro MEA – monoetanolamina), é essencial para promover o crescimento saudável, otimizar o transporte de açúcares e melhorar a fertilidade das plantas. Enriquecido com substâncias húmicas que melhoram a estrutura do solo, estimulam a atividade microbiana e aumentam significativamente a absorção e translocação dos nutrientes."
     },
     {
       "id": "neo-boro-20lt",
@@ -418,7 +422,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-boro-20l.png",
+      "description": "Neo Boro é uma solução líquida de alta pureza e concentração, desenvolvida para atender às necessidades das plantas em diferentes estágios de desenvolvimento. Rico em boro solúvel (Boro MEA – monoetanolamina), é essencial para promover o crescimento saudável, otimizar o transporte de açúcares e melhorar a fertilidade das plantas. Enriquecido com substâncias húmicas que melhoram a estrutura do solo, estimulam a atividade microbiana e aumentam significativamente a absorção e translocação dos nutrientes."
     },
     {
       "id": "neo-cab-5lt",
@@ -432,7 +437,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-cab-5l.png",
+      "description": "Neo CAB é uma solução líquida que combina cálcio e boro, nutrientes essenciais para o desenvolvimento das plantas. O cálcio melhora a integridade das paredes celulares e a resistência das plantas, enquanto o boro contribui para a fertilização das flores e a formação de frutos. Juntos, favorecem o pegamento de floradas, aumentando a taxa de conversão de flores em frutos. Ideal para aplicações foliares ou fertirrigação em diversas culturas."
     },
     {
       "id": "neo-cab-20lt",
@@ -446,7 +452,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-cab-20l.png",
+      "description": "Neo CAB é uma solução líquida que combina cálcio e boro, nutrientes essenciais para o desenvolvimento das plantas. O cálcio melhora a integridade das paredes celulares e a resistência das plantas, enquanto o boro contribui para a fertilização das flores e a formação de frutos. Juntos, favorecem o pegamento de floradas, aumentando a taxa de conversão de flores em frutos. Ideal para aplicações foliares ou fertirrigação em diversas culturas."
     },
     {
       "id": "neo-humic-5lt",
@@ -460,7 +467,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-humic-5l.png",
+      "description": "Neo Humic é um fertilizante composto por substâncias húmicas advindas da Leonardita, que estimulam processos fisiológicos nas plantas, promovendo melhor desenvolvimento e produtividade. Aumenta a resistência a estresses bióticos e abióticos, melhora o aproveitamento da água e a absorção de nutrientes. Contribui para a síntese de clorofila, favorece o aumento do volume radicular e melhora a capacidade de troca catiônica (CTC) do solo, reduzindo os efeitos tóxicos do alumínio."
     },
     {
       "id": "neo-humic-20lt",
@@ -474,7 +482,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-humic-20l.png",
+      "description": "Neo Humic é um fertilizante composto por substâncias húmicas advindas da Leonardita, que estimulam processos fisiológicos nas plantas, promovendo melhor desenvolvimento e produtividade. Aumenta a resistência a estresses bióticos e abióticos, melhora o aproveitamento da água e a absorção de nutrientes. Contribui para a síntese de clorofila, favorece o aumento do volume radicular e melhora a capacidade de troca catiônica (CTC) do solo, reduzindo os efeitos tóxicos do alumínio."
     },
     {
       "id": "neo-gold-1lt",
@@ -488,7 +497,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-gold-1l.png",
+      "description": "Neo Gold é um precursor hormonal que promove o crescimento e desenvolvimento vegetal, contendo moléculas fisiologicamente ativas, extrato de algas Ascophyllum nodosum, aminoácidos, substâncias húmicas e acetato de zinco. Estimula a síntese de hormônios relacionados ao enraizamento, vigor vegetativo e equilíbrio hormonal, otimizando a fotossíntese e a eficiência no uso de água e nutrientes. Indicado para aplicação no sulco de plantio ou via foliar, aumenta a produtividade e a rentabilidade dos cultivos."
     },
     {
       "id": "neo-gold-5lt",
@@ -502,7 +512,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-gold-5l.png",
+      "description": "Neo Gold é um precursor hormonal que promove o crescimento e desenvolvimento vegetal, contendo moléculas fisiologicamente ativas, extrato de algas Ascophyllum nodosum, aminoácidos, substâncias húmicas e acetato de zinco. Estimula a síntese de hormônios relacionados ao enraizamento, vigor vegetativo e equilíbrio hormonal, otimizando a fotossíntese e a eficiência no uso de água e nutrientes. Indicado para aplicação no sulco de plantio ou via foliar, aumenta a produtividade e a rentabilidade dos cultivos."
     },
     {
       "id": "neo-gold-20lt",
@@ -516,7 +527,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-gold-20l.png",
+      "description": "Neo Gold é um precursor hormonal que promove o crescimento e desenvolvimento vegetal, contendo moléculas fisiologicamente ativas, extrato de algas Ascophyllum nodosum, aminoácidos, substâncias húmicas e acetato de zinco. Estimula a síntese de hormônios relacionados ao enraizamento, vigor vegetativo e equilíbrio hormonal, otimizando a fotossíntese e a eficiência no uso de água e nutrientes. Indicado para aplicação no sulco de plantio ou via foliar, aumenta a produtividade e a rentabilidade dos cultivos."
     },
     {
       "id": "neo-mag-1lt",
@@ -530,7 +542,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-mag-1l.png",
+      "description": "Neo Mag é uma solução líquida de magnésio de alta concentração e eficiência, desenvolvida para suprir as necessidades das plantas em diferentes estágios de desenvolvimento. O magnésio é componente central da clorofila e essencial para a fotossíntese, ativação de enzimas e translocação de carboidratos. Promove folhagem mais verde e saudável, melhora a formação de frutos e aumenta a resistência a estresses ambientais. Compatível com aplicações foliares e fertirrigação."
     },
     {
       "id": "neo-mag-5lt",
@@ -544,7 +557,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-mag-5l.png",
+      "description": "Neo Mag é uma solução líquida de magnésio de alta concentração e eficiência, desenvolvida para suprir as necessidades das plantas em diferentes estágios de desenvolvimento. O magnésio é componente central da clorofila e essencial para a fotossíntese, ativação de enzimas e translocação de carboidratos. Promove folhagem mais verde e saudável, melhora a formação de frutos e aumenta a resistência a estresses ambientais. Compatível com aplicações foliares e fertirrigação."
     },
     {
       "id": "neo-mag-20lt",
@@ -558,7 +572,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-mag-20l.png",
+      "description": "Neo Mag é uma solução líquida de magnésio de alta concentração e eficiência, desenvolvida para suprir as necessidades das plantas em diferentes estágios de desenvolvimento. O magnésio é componente central da clorofila e essencial para a fotossíntese, ativação de enzimas e translocação de carboidratos. Promove folhagem mais verde e saudável, melhora a formação de frutos e aumenta a resistência a estresses ambientais. Compatível com aplicações foliares e fertirrigação."
     },
     {
       "id": "neo-mix-5lt",
@@ -572,7 +587,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-mix-5l.png",
+      "description": "Neo Mix oferece nutrição balanceada com os principais nutrientes essenciais (N, S, B, Mn e Zn) para diversas culturas. Com a adição de aminoácidos de alta performance, potencializa o desenvolvimento das plantas, favorecendo a absorção e translocação eficientes dos nutrientes. Sua formulação contém quelatos, garantindo maior disponibilidade dos micronutrientes. Compatível com defensivos agrícolas, proporcionando praticidade e segurança nas aplicações."
     },
     {
       "id": "neo-mix-20lt",
@@ -586,7 +602,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-mix-20l.png",
+      "description": "Neo Mix oferece nutrição balanceada com os principais nutrientes essenciais (N, S, B, Mn e Zn) para diversas culturas. Com a adição de aminoácidos de alta performance, potencializa o desenvolvimento das plantas, favorecendo a absorção e translocação eficientes dos nutrientes. Sua formulação contém quelatos, garantindo maior disponibilidade dos micronutrientes. Compatível com defensivos agrícolas, proporcionando praticidade e segurança nas aplicações."
     },
     {
       "id": "neo-mix-1000lt",
@@ -600,7 +617,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-mix-1000l.png",
+      "description": "Neo Mix oferece nutrição balanceada com os principais nutrientes essenciais (N, S, B, Mn e Zn) para diversas culturas. Com a adição de aminoácidos de alta performance, potencializa o desenvolvimento das plantas, favorecendo a absorção e translocação eficientes dos nutrientes. Sua formulação contém quelatos, garantindo maior disponibilidade dos micronutrientes. Compatível com defensivos agrícolas, proporcionando praticidade e segurança nas aplicações."
     },
     {
       "id": "neo-n-5lt",
@@ -614,7 +632,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-n-5l.png",
+      "description": "Neo N é uma formulação líquida de alta concentração de nitrogênio (27-0-0) com liberação gradativa do nutriente. Sua composição oferece 30% de nitrogênio de rápida absorção (fonte amídica) e 70% de liberação gradual (fonte formaldeído), permitindo a aplicação de maiores quantidades em uma única operação e garantindo fornecimento contínuo por até 30 dias. Ideal para adubação foliar, solo e fertirrigação, promove crescimento saudável e maior eficiência no aproveitamento do nitrogênio."
     },
     {
       "id": "neo-n-20lt",
@@ -628,7 +647,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-n-20l.png",
+      "description": "Neo N é uma formulação líquida de alta concentração de nitrogênio (27-0-0) com liberação gradativa do nutriente. Sua composição oferece 30% de nitrogênio de rápida absorção (fonte amídica) e 70% de liberação gradual (fonte formaldeído), permitindo a aplicação de maiores quantidades em uma única operação e garantindo fornecimento contínuo por até 30 dias. Ideal para adubação foliar, solo e fertirrigação, promove crescimento saudável e maior eficiência no aproveitamento do nitrogênio."
     },
     {
       "id": "neo-spray-1lt",
@@ -642,7 +662,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-spray-1l.png",
+      "description": "Neo Spray é um produto de alta eficiência que reduz a formação de espuma e condiciona a calda. Sua ação anti-deriva e efeito umectante garantem maior espalhamento das gotas na superfície das folhas, quebrando a tensão superficial da água e diminuindo o risco de fitotoxidez. Retarda a evaporação da solução foliar, prolongando o tempo de absorção dos produtos aplicados. Com pH neutro, é indicado para todos os tipos de aplicação: canhão, atomizador, costal, barra fixa ou drone."
     },
     {
       "id": "neo-spray-5lt",
@@ -656,7 +677,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-spray-5l.png",
+      "description": "Neo Spray é um produto de alta eficiência que reduz a formação de espuma e condiciona a calda. Sua ação anti-deriva e efeito umectante garantem maior espalhamento das gotas na superfície das folhas, quebrando a tensão superficial da água e diminuindo o risco de fitotoxidez. Retarda a evaporação da solução foliar, prolongando o tempo de absorção dos produtos aplicados. Com pH neutro, é indicado para todos os tipos de aplicação: canhão, atomizador, costal, barra fixa ou drone."
     },
     {
       "id": "neo-zinc-1lt",
@@ -670,7 +692,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Neo Zinc é uma solução líquida de alta pureza com 7% de zinco solúvel e quelatizado, essencial para o desenvolvimento saudável das plantas. Sua formulação promove rápida absorção, favorecendo o metabolismo enzimático, a produção de hormônios de crescimento e a fotossíntese. Ideal para corrigir deficiências de zinco, melhora o crescimento vegetativo, a formação de frutos e a resistência a estresses ambientais. Compatível com aplicações foliares e fertirrigação."
     },
     {
       "id": "neo-zinc-5lt",
@@ -684,7 +707,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-zinc-5l.png",
+      "description": "Neo Zinc é uma solução líquida de alta pureza com 7% de zinco solúvel e quelatizado, essencial para o desenvolvimento saudável das plantas. Sua formulação promove rápida absorção, favorecendo o metabolismo enzimático, a produção de hormônios de crescimento e a fotossíntese. Ideal para corrigir deficiências de zinco, melhora o crescimento vegetativo, a formação de frutos e a resistência a estresses ambientais. Compatível com aplicações foliares e fertirrigação."
     },
     {
       "id": "neo-zinc-20lt",
@@ -698,7 +722,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": "images/products/neo/neo-zinc-20l.png",
+      "description": "Neo Zinc é uma solução líquida de alta pureza com 7% de zinco solúvel e quelatizado, essencial para o desenvolvimento saudável das plantas. Sua formulação promove rápida absorção, favorecendo o metabolismo enzimático, a produção de hormônios de crescimento e a fotossíntese. Ideal para corrigir deficiências de zinco, melhora o crescimento vegetativo, a formação de frutos e a resistência a estresses ambientais. Compatível com aplicações foliares e fertirrigação."
     },
     {
       "id": "neo-02-18-00",
@@ -1973,47 +1998,500 @@
       "leaflet_url": null,
       "active_ingredient": null,
       "image": null
+    },
+    {
+      "id": "pano-cafe-8x4",
+      "code": "0003915",
+      "name": "Pano para Café 8x4",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "pano-cafe-10x4",
+      "code": "0003914",
+      "name": "Pano para Café 10x4",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "pano-cafe-12x4",
+      "code": "0003916",
+      "name": "Pano para Café 12x4",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "pano-cafe-15x4",
+      "code": "0005278",
+      "name": "Pano para Café 15x4",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "pano-cafe-20x4",
+      "code": "0005552",
+      "name": "Pano para Café 20x4",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "pano-cafe-10x4-preto",
+      "code": "0005507",
+      "name": "Pano para Café 10x4 Preto",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "pano-cafe-12x4-preto",
+      "code": "0005506",
+      "name": "Pano para Café 12x4 Preto",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "lona-pb-8x50-40kg",
+      "code": "0002441",
+      "name": "Lona Preta/Branca 8x50m 40kg (100 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "MT",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "lona-pb-8x50-60kg",
+      "code": "0004724",
+      "name": "Lona Preta/Branca 8x50m 60kg (150 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "MT",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "lona-preta-4x110-40kg",
+      "code": "0006373",
+      "name": "Lona Preta 4x110m 40kg (90 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "MT",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "lona-preta-6x50-30kg",
+      "code": "0005241",
+      "name": "Lona Preta 6x50m 30kg (100 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "MT",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "lona-preta-8x50-40kg",
+      "code": "0003738",
+      "name": "Lona Preta 8x50m 40kg (100 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "MT",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "lona-preta-8x50-60kg",
+      "code": "0003739",
+      "name": "Lona Preta 8x50m 60kg (150 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "MT",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "luva-pigmento-preto",
+      "code": "0005993",
+      "name": "Luva c/ Pigmento Punho Preto",
+      "variant": null,
+      "brand": "EQUIPAMENTO",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "luva-pigmento-azul-g",
+      "code": "0000900",
+      "name": "Luva c/ Pigmento Punho Azul (Tam. G)",
+      "variant": null,
+      "brand": "EQUIPAMENTO",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "luva-pigmento-vermelha-gg",
+      "code": "0005518",
+      "name": "Luva c/ Pigmento Punho Vermelha (Tam. GG)",
+      "variant": null,
+      "brand": "EQUIPAMENTO",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "luva-pigmento-laranja-gg",
+      "code": "0007575",
+      "name": "Luva c/ Pigmento Punho Laranja (Tam. GG)",
+      "variant": null,
+      "brand": "EQUIPAMENTO",
+      "packaging_type": "PAR",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "saco-60x90",
+      "code": "0005516",
+      "name": "Saco 60x90cm Convencional",
+      "variant": null,
+      "brand": "SACARIA",
+      "packaging_type": "UND",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "saco-60x90-listra",
+      "code": "0007302",
+      "name": "Saco 60x90cm BC Listra",
+      "variant": null,
+      "brand": "SACARIA",
+      "packaging_type": "UND",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "saco-60x100-listra",
+      "code": "0005508",
+      "name": "Saco 60x100cm BC Listra",
+      "variant": null,
+      "brand": "SACARIA",
+      "packaging_type": "UND",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "saco-70x100-listra",
+      "code": "0005509",
+      "name": "Saco 70x100cm BC Listra",
+      "variant": null,
+      "brand": "SACARIA",
+      "packaging_type": "UND",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "saco-70x110-listra",
+      "code": "0005555",
+      "name": "Saco 70x110cm BC Listra",
+      "variant": null,
+      "brand": "SACARIA",
+      "packaging_type": "UND",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "saco-rafia-60x90",
+      "code": "0006176",
+      "name": "Saco Ráfia Laminado Marrom 60x90cm",
+      "variant": null,
+      "brand": "SACARIA",
+      "packaging_type": "UND",
+      "packaging_size": null,
+      "category": "colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null
+    },
+    {
+      "id": "amino-plus-1lt",
+      "code": "0005880",
+      "name": "Amino Plus",
+      "variant": "1LT",
+      "brand": "AJINOMOTO",
+      "packaging_type": "LT",
+      "packaging_size": "1L",
+      "category": "fertilizantes",
+      "subcategory": "Foliares",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null,
+      "in_stock": false
+    },
+    {
+      "id": "amino-plus-5lt",
+      "code": "0006335",
+      "name": "Amino Plus",
+      "variant": "5LT",
+      "brand": "AJINOMOTO",
+      "packaging_type": "GL",
+      "packaging_size": "5L",
+      "category": "fertilizantes",
+      "subcategory": "Foliares",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null,
+      "in_stock": false
     }
   ],
   "brands": [
-    { "id": "neo", "name": "Neo", "description": "Fertilizantes e insumos agrícolas de alta performance", "logo": null },
-    { "id": "sipcam", "name": "Sipcam", "description": "Soluções inovadoras para proteção de culturas", "logo": null },
-    { "id": "gowan", "name": "Gowan", "description": "Produtos especializados para agricultura sustentável", "logo": null },
-    { "id": "tide", "name": "Tide", "description": "Defensivos agrícolas de qualidade comprovada", "logo": null },
-    { "id": "icl", "name": "ICL", "description": "Fertilizantes de alta eficiência para grandes culturas", "logo": null },
-    { "id": "ajinomoto", "name": "AJINOMOTO", "description": "Aminoácidos e nutrição avançada para plantas", "logo": null },
-    { "id": "fmc", "name": "FMC", "description": "Ciências agrícolas e inovação tecnológica", "logo": null },
-    { "id": "rainbow", "name": "Rainbow", "description": "Defensivos e herbicidas para máxima produtividade", "logo": null },
-    { "id": "ouro-fino", "name": "Ouro Fino", "description": "Soluções completas para o agronegócio brasileiro", "logo": null },
-    { "id": "husqvarna", "name": "Husqvarna", "description": "Equipamentos de alta performance para uso agrícola", "logo": null },
-    { "id": "phox", "name": "Phox Fertilizantes", "description": "Fertilizantes especializados para correção de solo", "logo": null },
-    { "id": "geox", "name": "Geox", "description": "Corretivos de solo com tecnologia avançada", "logo": null },
-    { "id": "caltim", "name": "Caltim", "description": "Corretivos calcários de alta qualidade", "logo": null }
+    {
+      "id": "neo",
+      "name": "Neo",
+      "description": "Fertilizantes e insumos agrícolas de alta performance",
+      "logo": "images/logo/neo-logo.svg"
+    },
+    {
+      "id": "sipcam",
+      "name": "Sipcam",
+      "description": "Soluções inovadoras para proteção de culturas",
+      "logo": null
+    },
+    {
+      "id": "gowan",
+      "name": "Gowan",
+      "description": "Produtos especializados para agricultura sustentável",
+      "logo": null
+    },
+    {
+      "id": "tide",
+      "name": "Tide",
+      "description": "Defensivos agrícolas de qualidade comprovada",
+      "logo": null
+    },
+    {
+      "id": "icl",
+      "name": "ICL",
+      "description": "Fertilizantes de alta eficiência para grandes culturas",
+      "logo": null
+    },
+    {
+      "id": "ajinomoto",
+      "name": "AJINOMOTO",
+      "description": "Aminoácidos e nutrição avançada para plantas",
+      "logo": null
+    },
+    {
+      "id": "fmc",
+      "name": "FMC",
+      "description": "Ciências agrícolas e inovação tecnológica",
+      "logo": null
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "description": "Defensivos e herbicidas para máxima produtividade",
+      "logo": null
+    },
+    {
+      "id": "ouro-fino",
+      "name": "Ouro Fino",
+      "description": "Soluções completas para o agronegócio brasileiro",
+      "logo": null
+    },
+    {
+      "id": "husqvarna",
+      "name": "Husqvarna",
+      "description": "Equipamentos de alta performance para uso agrícola",
+      "logo": null
+    },
+    {
+      "id": "phox",
+      "name": "Phox Fertilizantes",
+      "description": "Fertilizantes especializados para correção de solo",
+      "logo": null
+    },
+    {
+      "id": "geox",
+      "name": "Geox",
+      "description": "Corretivos de solo com tecnologia avançada",
+      "logo": null
+    },
+    {
+      "id": "caltim",
+      "name": "Caltim",
+      "description": "Corretivos calcários de alta qualidade",
+      "logo": null
+    },
+    {
+      "id": "pano-lona-bag",
+      "name": "Pano/Lona/Big Bag",
+      "description": "Panos, lonas e big bags para colheita de café",
+      "logo": null
+    },
+    {
+      "id": "equipamento",
+      "name": "Equipamentos",
+      "description": "Equipamentos e EPIs para uso agrícola",
+      "logo": null
+    },
+    {
+      "id": "sacaria",
+      "name": "Sacaria",
+      "description": "Sacos e embalagens para armazenamento agrícola",
+      "logo": null
+    }
   ],
   "categories": [
     {
       "id": "defensivos",
       "name": "Defensivos",
       "description": "Herbicidas, fungicidas e inseticidas para proteção de culturas",
-      "subcategories": ["Herbicidas", "Fungicidas", "Inseticidas", "Biológicos"]
+      "subcategories": [
+        "Herbicidas",
+        "Fungicidas",
+        "Inseticidas",
+        "Biológicos"
+      ]
     },
     {
       "id": "fertilizantes",
       "name": "Fertilizantes",
       "description": "Nutrição foliar, granulados, organo minerais e corretivos de solo",
-      "subcategories": ["Foliares", "Granulados", "Organo mineral", "Corretivos"]
+      "subcategories": [
+        "Foliares",
+        "Granulados",
+        "Organo mineral",
+        "Corretivos"
+      ]
     },
     {
       "id": "jardinagem-agricola",
       "name": "Jardinagem/Uso Agrícola",
       "description": "Equipamentos Husqvarna para uso agrícola e jardinagem",
-      "subcategories": ["Motosserras", "Roçadeiras", "Derricadores", "Sopradores", "Agricola"]
+      "subcategories": [
+        "Motosserras",
+        "Roçadeiras",
+        "Derricadores",
+        "Sopradores",
+        "Agricola"
+      ]
     },
     {
       "id": "colheita",
       "name": "Produtos para colheita",
       "description": "Panos, lonas, sacaria e equipamentos para colheita",
-      "subcategories": ["Diversos"]
+      "subcategories": [
+        "Diversos"
+      ]
     }
   ]
 }

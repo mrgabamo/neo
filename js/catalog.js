@@ -30,7 +30,7 @@ function debounce(fn, delay) {
 /* ── Load & Init ── */
 async function init() {
   try {
-    const res = await fetch('data/products.json');
+    const res = await fetch('data/products.json?v=2');
     const data = await res.json();
     allProducts = data.products;
     allCategories = data.categories;
