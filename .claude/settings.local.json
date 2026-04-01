@@ -20,7 +20,11 @@
       "Bash(git init:*)",
       "Bash(git remote:*)",
       "Bash(/Users/mrgabamo/Documents/GitHub/neo/.gitignore:*)",
-      "Bash(git -C /Users/mrgabamo/Documents/GitHub/neo add catalogo.html contato.html index.html produto.html sobre.html css/ data/ js/ images/ .gitignore .claude/)"
+      "Bash(git -C /Users/mrgabamo/Documents/GitHub/neo add catalogo.html contato.html index.html produto.html sobre.html css/ data/ js/ images/ .gitignore .claude/)",
+      "Bash(git -C:*)",
+      "Bash(gh auth:*)",
+      "Bash(git config:*)",
+      "Bash(ssh -T git@github.com)"
     ]
   }
 }
