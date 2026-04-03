@@ -12,7 +12,8 @@
       "subcategory": "Biológicos",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2021-03/metrimex500sc.pdf",
       "active_ingredient": "Ametrina (500g/L)",
-      "image": null
+      "image": null,
+      "description": "Herbicida sistêmico seletivo à base de Ametrina para controle de plantas daninhas em cana-de-açúcar e abacaxi, com ação por contato e absorção radicular."
     },
     {
       "id": "soleado-50wg",
@@ -26,7 +27,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-10/soleado_50_wg.pdf",
       "active_ingredient": "Boscalida (500g/kg)",
-      "image": null
+      "image": null,
+      "description": "Fungicida sistêmico do grupo carboxamida (Boscalida) para controle de doenças em soja, cereais e hortaliças, com ação preventiva e curativa de amplo espectro."
     },
     {
       "id": "cuprozeb-wg",
@@ -40,7 +42,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-03/cuprozeb.pdf",
       "active_ingredient": "Mancozebe (440g/kg), Oxicloreto de cobre (300g/kg)",
-      "image": null
+      "image": null,
+      "description": "Fungicida cúprico de contato com dupla ação (Mancozebe + Oxicloreto de Cobre) para controle preventivo de doenças fúngicas e bacterianas em diversas culturas."
     },
     {
       "id": "metiltiofan-700wp",
@@ -54,7 +57,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-02/metiltiofan_0.pdf",
       "active_ingredient": "Tiofanato-Metílico (700g/kg)",
-      "image": null
+      "image": null,
+      "description": "Fungicida sistêmico do grupo benzimidazol (Tiofanato-Metílico) de amplo espectro para controle de diversas doenças fúngicas em cereais, hortaliças e frutíferas."
     },
     {
       "id": "elios-800wg",
@@ -67,8 +71,9 @@
       "category": "Defensivos",
       "subcategory": "Fungicidas",
       "leaflet_url": "https://assets.revistacultivar.com.br/c24984fe-9a22-46c3-9c50-928ca5caccf0_elios_800_wg_bula.pdf",
-      "active_ingredient": "Boscalida (800g/kg)",
-      "image": null
+      "active_ingredient": "Flutriafol (800 g/kg)",
+      "image": null,
+      "description": "Fungicida sistêmico de alta concentração em Boscalida para controle eficiente de oídio, mofo cinzento e outras doenças em hortaliças, frutíferas e cereais."
     },
     {
       "id": "kentan-40wg",
@@ -82,7 +87,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://gowan.com.br/documentos/BULA-KENTAN-40-WG.pdf",
       "active_ingredient": "Hidróxido de cobre (656g/kg)",
-      "image": null
+      "image": null,
+      "description": "Fungicida e bactericida cúprico de amplo espectro para controle de doenças fúngicas e bacterianas em diversas culturas, com longa persistência de ação protetora."
     },
     {
       "id": "volcane-sl",
@@ -96,7 +102,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.gowan.com.br/documentos/BULA-VOLCANE.pdf",
       "active_ingredient": "Sodium hydrogen methylarsonate (MSMA) (790g/L)",
-      "image": null
+      "image": null,
+      "description": "Herbicida seletivo de contato para controle de tiririca e outras plantas daninhas em pastagens e cana-de-açúcar, com mecanismo de ação específico ao grupo MSMA."
     },
     {
       "id": "perimeter-sl",
@@ -110,7 +117,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://gowan.com.br/documentos/BULA_PERIMETER.pdf",
       "active_ingredient": "Extrato de Swinglea glutinosa (868,40g/L)",
-      "image": null
+      "image": null,
+      "description": "Maturador biológico para cana-de-açúcar à base de extrato de Swinglea glutinosa, promove antecipação e uniformização da maturação e aumento do teor de sacarose."
     },
     {
       "id": "monceren-250sc",
@@ -124,7 +132,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.gowan.com.br/documentos/BULA-MONCEREN-250-SC.pdf",
       "active_ingredient": "Pencicurom (250g/L)",
-      "image": null
+      "image": null,
+      "description": "Fungicida sistêmico específico para tratamento de sementes de arroz, protege contra Rhizoctonia solani (tombamento) e outros fitopatógenos de solo e semente."
     },
     {
       "id": "glifosato-pocco-1lt",
@@ -137,8 +146,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-07/pocco480sl.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Glifosato (sal de isopropilamina, 480 g/L)",
+      "image": null,
+      "description": "Herbicida não seletivo sistêmico para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
       "id": "glifosato-pocco-5lt",
@@ -151,8 +161,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-07/pocco480sl.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Glifosato (sal de isopropilamina, 480 g/L)",
+      "image": null,
+      "description": "Herbicida não seletivo sistêmico para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
       "id": "glifosato-pocco-20lt",
@@ -165,8 +176,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-07/pocco480sl.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Glifosato (sal de isopropilamina, 480 g/L)",
+      "image": null,
+      "description": "Herbicida não seletivo sistêmico para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
       "id": "camp-d-1lt",
@@ -180,7 +192,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/campd300518.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida hormonal sistêmico de amplo espectro para controle de plantas daninhas de folha larga em pastagens, lavouras e cana-de-açúcar."
     },
     {
       "id": "camp-d-5lt",
@@ -194,7 +207,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/campd300518.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida hormonal sistêmico de amplo espectro para controle de plantas daninhas de folha larga em pastagens, lavouras e cana-de-açúcar."
     },
     {
       "id": "camp-d-20lt",
@@ -208,7 +222,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/campd300518.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida hormonal sistêmico de amplo espectro para controle de plantas daninhas de folha larga em pastagens, lavouras e cana-de-açúcar."
     },
     {
       "id": "clorimurom-prentiss-300gr",
@@ -221,8 +236,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-03/clorimuronprentiss.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Clorimurom-etílico (250 g/kg)",
+      "image": null,
+      "description": "Herbicida seletivo pós-emergente e sistêmico para controle de plantas daninhas de folha larga na cultura da soja, em plantio convencional e direto."
     },
     {
       "id": "metsulfurom-ultra-200gr",
@@ -234,9 +250,10 @@
       "packaging_size": "200g",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-02/derrete.pdf",
+      "active_ingredient": "Metsulfurom-metílico (600 g/kg)",
+      "image": null,
+      "description": "Herbicida sistêmico sulfonilureia para controle pós-emergente de plantas daninhas em pastagens, trigo e triticale."
     },
     {
       "id": "pren-d-1lt",
@@ -249,8 +266,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-11/pren-d_806_231020.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "2,4-D (sal de dimetilamina, 806 g/L)",
+      "image": null,
+      "description": "Herbicida hormonal sistêmico à base de 2,4-D para controle de folhas largas em pastagens, cereais, milho, soja e cana-de-açúcar."
     },
     {
       "id": "pren-d-5lt",
@@ -263,8 +281,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-11/pren-d_806_231020.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "2,4-D (sal de dimetilamina, 806 g/L)",
+      "image": null,
+      "description": "Herbicida hormonal sistêmico à base de 2,4-D para controle de folhas largas em pastagens, cereais, milho, soja e cana-de-açúcar."
     },
     {
       "id": "station-1lt",
@@ -278,7 +297,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-05/station240sl.pdf",
       "active_ingredient": "Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida sistêmico à base de Picloram para controle de plantas invasoras de difícil controle, incluindo espécies lenhosas e dicotiledôneas em pastagens."
     },
     {
       "id": "station-5lt",
@@ -292,7 +312,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-05/station240sl.pdf",
       "active_ingredient": "Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida sistêmico à base de Picloram para controle de plantas invasoras de difícil controle, incluindo espécies lenhosas e dicotiledôneas em pastagens."
     },
     {
       "id": "station-20lt",
@@ -306,7 +327,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-05/station240sl.pdf",
       "active_ingredient": "Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida sistêmico à base de Picloram para controle de plantas invasoras de difícil controle, incluindo espécies lenhosas e dicotiledôneas em pastagens."
     },
     {
       "id": "triclopir-5lt",
@@ -319,8 +341,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-04/triclopir.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Triclopir (480 g/L)",
+      "image": null,
+      "description": "Herbicida sistêmico para controle de plantas daninhas lenhosas, dicotiledôneas e gramíneas perenes em pastagens e reflorestamento."
     },
     {
       "id": "triclopir-20lt",
@@ -333,8 +356,9 @@
       "category": "Defensivos",
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-04/triclopir.pdf",
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Triclopir (480 g/L)",
+      "image": null,
+      "description": "Herbicida sistêmico para controle de plantas daninhas lenhosas, dicotiledôneas e gramíneas perenes em pastagens e reflorestamento."
     },
     {
       "id": "wiking-200gr",
@@ -346,9 +370,10 @@
       "packaging_size": "200g",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-10/wiking600wg.pdf",
+      "active_ingredient": "Metsulfurom-metílico (600 g/kg)",
+      "image": null,
+      "description": "Herbicida sistêmico seletivo para controle pós-emergente de plantas daninhas anuais e perenes em trigo, triticale e cevada."
     },
     {
       "id": "neo-amino-1lt",
@@ -736,8 +761,9 @@
       "category": "Fertilizantes",
       "subcategory": "Organo mineral",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 2% + P2O5 18% + Ca 8%",
+      "image": null,
+      "description": "Fertilizante mineral misto granulado com formula 02-18-00 + 8% Ca, indicado para adubação de plantio com ênfase em fósforo e cálcio."
     },
     {
       "id": "neo-10-02-10",
@@ -750,8 +776,9 @@
       "category": "Fertilizantes",
       "subcategory": "Organo mineral",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 10% + P2O5 2% + K2O 10% + S 10% + B 0,3% + Zn 0,2%",
+      "image": null,
+      "description": "Fertilizante mineral misto granulado com formula 10-02-10 enriquecido com enxofre, boro e zinco para adubação completa de plantio e cobertura."
     },
     {
       "id": "neo-14-02-10",
@@ -764,8 +791,9 @@
       "category": "Fertilizantes",
       "subcategory": "Organo mineral",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 14% + P2O5 2% + K2O 10%",
+      "image": null,
+      "description": "Fertilizante mineral misto foliar granulado com formula 14-02-10 para adubação de cobertura e manutenção nutricional equilibrada de diversas culturas."
     },
     {
       "id": "neo-14-02-14",
@@ -778,8 +806,9 @@
       "category": "Fertilizantes",
       "subcategory": "Organo mineral",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 14% + P2O5 2% + K2O 14%",
+      "image": null,
+      "description": "Fertilizante mineral misto foliar granulado com formula 14-02-14 para adubação de cobertura com foco em nitrogenio e potassio em culturas exigentes."
     },
     {
       "id": "neo-14-02-08",
@@ -792,8 +821,9 @@
       "category": "Fertilizantes",
       "subcategory": "Organo mineral",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 14% + P2O5 2% + K2O 8%",
+      "image": null,
+      "description": "Fertilizante mineral misto foliar granulado com formula 14-02-08 para adubação de manutenção e cobertura em diversas culturas."
     },
     {
       "id": "neo-29-00-00",
@@ -806,8 +836,9 @@
       "category": "Fertilizantes",
       "subcategory": "Organo mineral",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 29%",
+      "image": null,
+      "description": "Fertilizante mineral simples foliar granulado com alta concentração de nitrogenio (29%), ideal para adubação nitrogenada de cobertura em gramíneas e culturas exigentes."
     },
     {
       "id": "icl-bioz-kellus-copper",
@@ -821,7 +852,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar de cobre com bioatividade comprovada e quelacao biodegradavel, linha BIOZ da ICL para nutricao e protecao fisiologica das plantas."
     },
     {
       "id": "icl-concorde-rn-5lt",
@@ -835,7 +867,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante nitrogenado foliar de alta eficiencia com tecnologia de liberacao controlada, para nutricao nitrogenada complementar em culturas exigentes."
     },
     {
       "id": "icl-concorde-rn-20lt",
@@ -849,7 +882,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante nitrogenado foliar de alta eficiencia com tecnologia de liberacao controlada, para nutricao nitrogenada complementar em culturas exigentes."
     },
     {
       "id": "icl-energy-sc-10kg",
@@ -863,7 +897,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar concentrado de alta solubilidade para nutricao completa e estimulo de energia metabolica nas plantas durante estadios criticos."
     },
     {
       "id": "icl-helper-air-adjt-1lt",
@@ -877,7 +912,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Adjuvante especializado para aplicacoes aereas, reduz deriva, melhora interacao agua-oleo e previne evaporacao de gotas, garantindo maior eficacia e seguranca das aplicacoes."
     },
     {
       "id": "icl-helper-dessek-1lt",
@@ -891,7 +927,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Adjuvante para potencializar aplicacoes de dessecantes, com tecnologia exclusiva que aumenta a absorcao e translocacao dos produtos aplicados."
     },
     {
       "id": "icl-helper-neutrum-1lt",
@@ -905,7 +942,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Adjuvante neutralizador de pH de caldas de pulverizacao, aumenta a estabilidade e eficacia de fungicidas e inseticidas e melhora a absorcao foliar dos produtos."
     },
     {
       "id": "icl-helper-neutrum-5lt",
@@ -919,7 +957,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Adjuvante neutralizador de pH de caldas de pulverizacao, aumenta a estabilidade e eficacia de fungicidas e inseticidas e melhora a absorcao foliar dos produtos."
     },
     {
       "id": "icl-helper-perenes-1lt",
@@ -933,7 +972,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Adjuvante para culturas perenes com folhas cerosas, aumenta a retencao de gotas e a absorcao dos ingredientes ativos aplicados em cafe, citros e outras perenes."
     },
     {
       "id": "icl-keep-green-5lt",
@@ -947,7 +987,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Biofertilizante pioneiro para protecao das folhas contra excesso de radiacao solar em cafeeiros e culturas perenes, reduz estresse luminico e aumenta produtividade."
     },
     {
       "id": "icl-keep-green-25lt",
@@ -961,7 +1002,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Biofertilizante pioneiro para protecao das folhas contra excesso de radiacao solar em cafeeiros e culturas perenes, reduz estresse luminico e aumenta produtividade."
     },
     {
       "id": "icl-kellus-copper-3kg",
@@ -975,7 +1017,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar de cobre quelado com alta biodisponibilidade e quelacao biodegradavel para controle preventivo e nutricional de doencas fungicas e bacterianas."
     },
     {
       "id": "icl-kellus-imune-5kg",
@@ -989,7 +1032,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar elicitor com nutrientes exclusivos que ativam o sistema de defesa das plantas, gerando protecao fisiologica por meio de mudancas estruturais e bioquimicas."
     },
     {
       "id": "icl-kellus-manganese-3kg",
@@ -1003,7 +1047,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar de manganes quelado de alta biodisponibilidade para prevencao e correcao de deficiencias nutricionais e suporte ao sistema de defesa das plantas."
     },
     {
       "id": "icl-kellus-zinco-3kg",
@@ -1017,7 +1062,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar de zinco quelado de alta absorcao e translocacao para prevencao e correcao de deficiencias de zinco em soja, milho, cafe e outras culturas."
     },
     {
       "id": "icl-nutriduo-10kg",
@@ -1031,7 +1077,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar fisiologico para soja com tecnologia antioxidante e biofortificacao, contendo selenio, zinco e magnesio para incremento de produtividade e qualidade de graos."
     },
     {
       "id": "icl-profol-exclusive-5kg",
@@ -1045,7 +1092,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar completo com complexo de macro e micronutrientes de alta solubilidade para nutricao preventiva e corretiva em diversas culturas."
     },
     {
       "id": "icl-profol-produtividade-12kg",
@@ -1059,7 +1107,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar premium com fontes nutricionais diferenciadas para melhor absorcao e uso eficiente pelas plantas, potencializando produtividade em culturas comerciais."
     },
     {
       "id": "icl-profol-sais-25kg",
@@ -1073,7 +1122,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar em formulacao solida com sais minerais de alta solubilidade para nutricao completa do ciclo das culturas com praticidade logistica."
     },
     {
       "id": "icl-transloc-10kg",
@@ -1087,7 +1137,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante foliar de alta eficiencia de translocacao para distribuicao uniforme de nutrientes em toda a planta, garantindo nutricao completa em momentos criticos."
     },
     {
       "id": "icl-triplus-perenes-1lt",
@@ -1101,7 +1152,8 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Fertilizante fisiologico com tripla acao (bioregulacao, retencao e nutricao) para incremento de pegamento de flores e frutos em cafeeiros e outras culturas perenes."
     },
     {
       "id": "amiorgan-25kg",
@@ -1114,8 +1166,9 @@
       "category": "Fertilizantes",
       "subcategory": "Granulados",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N + K2O + S (derivados de fermentacao de glutamato)",
+      "image": null,
+      "description": "Fertilizante organomineral solido de aplicacao ao solo, rico em nitrogenio, potassio e enxofre obtidos do processo fermentativo de fabricacao de aminoacidos."
     },
     {
       "id": "ajifol-calcio-1lt",
@@ -1128,8 +1181,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Ca 8% (88 g/L) + Carbono Organico 1%",
+      "image": null,
+      "description": "Fertilizante foliar com calcio complexado por aminoacidos e acido citrico, previne e corrige deficiencias nutricionais e melhora a qualidade e resistencia dos frutos."
     },
     {
       "id": "ajifol-gold-mais-1lt",
@@ -1142,8 +1196,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Zn 3% + Mn 6% + B 0,5% + Mo 0,005% + S 4% + Cu 0,02%",
+      "image": null,
+      "description": "Fertilizante foliar de micronutrientes complexados por aminoacidos e acido citrico para prevencao e correcao de deficiencias nutricionais em diversas culturas."
     },
     {
       "id": "ajifol-kmg-potency-1lt",
@@ -1156,8 +1211,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "K2O 10% (120 g/L) + Mg 1% (12 g/L)",
+      "image": null,
+      "description": "Fertilizante foliar com potassio e magnesio complexados por acido citrico, promove uniformidade de maturacao, qualidade e maior vida pos-colheita dos frutos."
     },
     {
       "id": "ajifol-premium-mais-1lt",
@@ -1170,8 +1226,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 2% + S 4% + Zn 6% + Mn 2% + B 0,2% + Cu 0,02% + Mo 0,005%",
+      "image": null,
+      "description": "Fertilizante foliar completo com macro e micronutrientes complexados por aminoacidos, indicado para nutricao preventiva e corretiva de deficiencias em diversas culturas."
     },
     {
       "id": "ajifol-rhizo-mo-1lt",
@@ -1184,8 +1241,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Mo 15% (210 g/L)",
+      "image": null,
+      "description": "Fertilizante foliar de alta concentracao em molibdenio complexado por acido citrico, essencial para fixacao biologica de nitrogenio e atividade enzimatica nas plantas."
     },
     {
       "id": "ajifol-sm-boro-1lt",
@@ -1198,8 +1256,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "B 5% (55 g/L)",
+      "image": null,
+      "description": "Fertilizante foliar de alto desempenho em boro complexado com sorbitol e monoetanolamina, garante alta eficiencia de absorcao e translocacao do micronutriente."
     },
     {
       "id": "ajifol-sm-boro-5lt",
@@ -1212,8 +1271,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "B 5% (55 g/L)",
+      "image": null,
+      "description": "Fertilizante foliar de alto desempenho em boro complexado com sorbitol e monoetanolamina, garante alta eficiencia de absorcao e translocacao do micronutriente."
     },
     {
       "id": "ajifol-sm-boro-20lt",
@@ -1226,8 +1286,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "B 5% (55 g/L)",
+      "image": null,
+      "description": "Fertilizante foliar de alto desempenho em boro complexado com sorbitol e monoetanolamina, garante alta eficiencia de absorcao e translocacao do micronutriente."
     },
     {
       "id": "ajipower-1lt",
@@ -1240,8 +1301,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 4% (56 g/L) + P2O5 19% (266 g/L) + Carbono Organico 6%",
+      "image": null,
+      "description": "Fertilizante organomineral com nitrogenio e fosforo derivados de aminoacidos, estimula o desenvolvimento radicular e vegetativo e potencializa o aproveitamento de nutrientes."
     },
     {
       "id": "amino-arginine-1lt",
@@ -1254,8 +1316,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 5% + P2O5 3% + S 4% + B 1% + Mo 0,02% + COT 9%",
+      "image": null,
+      "description": "Bioestimulante organomineral com aminoacidos livres (glutamico e arginina) que promove desenvolvimento do sistema radicular e aumenta a resistencia a estresses bioticos e abioticos."
     },
     {
       "id": "amino-fort-1lt",
@@ -1268,8 +1331,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 3% + P2O5 4% + K2O 1% + S 1% + COT 6%",
+      "image": null,
+      "description": "Fertilizante organomineral premium com mistura exclusiva de aminoacidos livres para ativacao fisiologica, reducao de danos por estresse e manutencao do potencial produtivo."
     },
     {
       "id": "amino-proline-1lt",
@@ -1282,8 +1346,9 @@
       "category": "Fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "N 4% (44 g/L) + S 2% (22 g/L) + COT 8%",
+      "image": null,
+      "description": "Bioestimulante organomineral com prolina, glicina betaina e acido glutamico, osmorregulador que protege as plantas contra deficit hidrico, salinidade e temperaturas extremas."
     },
     {
       "id": "fmc-ally-60xp-40gr",
@@ -1295,9 +1360,10 @@
       "packaging_size": "40g",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-02/ally.pdf",
       "active_ingredient": "Metsulfurom-Metílico",
-      "image": null
+      "image": null,
+      "description": "Herbicida sistêmico seletivo do grupo sulfonilureia para controle pós-emergente de plantas daninhas de folha larga em cereais de inverno e pastagens."
     },
     {
       "id": "fmc-aurora-400ec-1lt",
@@ -1309,9 +1375,10 @@
       "packaging_size": "1L",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/aurora_400_ec.pdf",
       "active_ingredient": "Carfentrazona-Etílica",
-      "image": null
+      "image": null,
+      "description": "Herbicida de contato e ação sistêmica para dessecação pré-colheita e controle de plantas daninhas de folha larga em diversas culturas."
     },
     {
       "id": "fmc-aurora-400ec-250ml",
@@ -1323,9 +1390,10 @@
       "packaging_size": "250ml",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/aurora_400_ec.pdf",
       "active_ingredient": "Carfentrazona-Etílica",
-      "image": null
+      "image": null,
+      "description": "Herbicida de contato e ação sistêmica para dessecação pré-colheita e controle de plantas daninhas de folha larga em diversas culturas."
     },
     {
       "id": "fmc-altacor-35wg-450gr",
@@ -1337,9 +1405,10 @@
       "packaging_size": "450g",
       "category": "Defensivos",
       "subcategory": "Inseticidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2023-12/altacor.pdf",
       "active_ingredient": "Clorantraniliprole",
-      "image": null
+      "image": null,
+      "description": "Inseticida diamida de nova geração para controle de lagartas e outros lepidópteros, com alta seletividade a inimigos naturais e longa persistência de ação."
     },
     {
       "id": "fmc-boral-500sc-1lt",
@@ -1351,9 +1420,10 @@
       "packaging_size": "1L",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-04/boral_500_sc.pdf",
       "active_ingredient": "Sulfentrazona",
-      "image": null
+      "image": null,
+      "description": "Herbicida seletivo de ação sistêmica e residual do grupo trifenilcetona para controle de plantas daninhas em pastagens, cana-de-açúcar e reflorestamento."
     },
     {
       "id": "fmc-premio-star-1lt",
@@ -1365,9 +1435,10 @@
       "packaging_size": "1L",
       "category": "Defensivos",
       "subcategory": "Inseticidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/premio_star.pdf",
       "active_ingredient": "Clorantraniliprole e Bifentrina",
-      "image": null
+      "image": null,
+      "description": "Inseticida com dupla ação (diamida + piretroide) para controle simultâneo de lagartas e percevejos, garantindo amplo espectro e maior praticidade de manejo."
     },
     {
       "id": "rainbow-glint-full-5lt",
@@ -1381,7 +1452,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/glint_full.pdf",
       "active_ingredient": "Haloxifope-P-Metílico",
-      "image": null
+      "image": null,
+      "description": "Herbicida graminicida seletivo à base de Haloxifope-P-Metílico para controle de gramíneas daninhas anuais e perenes em culturas de soja, algodão e feijão."
     },
     {
       "id": "rainbow-adiconstar-5lt",
@@ -1393,9 +1465,10 @@
       "packaging_size": "5L",
       "category": "Defensivos",
       "subcategory": "Fungicidas",
-      "leaflet_url": null,
-      "active_ingredient": "Azoxistrobina",
-      "image": null
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-09/adiconstar.pdf",
+      "active_ingredient": "Azoxistrobina + Difenoconazol (200 g/L + 125 g/L)",
+      "image": null,
+      "description": "Fungicida sistêmico premium com dupla ação (Azoxistrobina + Difenoconazol) para controle preventivo e curativo de doenças em soja, milho, trigo e outras culturas."
     },
     {
       "id": "rainbow-fullguard-1lt",
@@ -1409,7 +1482,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-11/fullguard.pdf",
       "active_ingredient": "Carfentrazona-Etílica",
-      "image": null
+      "image": null,
+      "description": "Herbicida de contato rápido à base de Carfentrazona-Etílica para dessecação e controle de plantas daninhas em pré-colheita e manejo de palhada."
     },
     {
       "id": "rainbow-soldier-5kg",
@@ -1421,9 +1495,10 @@
       "packaging_size": "5kg",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.rainbowagro.com.br/wp-content/uploads/2024/07/Bula_Soldier_Rev20240520.pdf",
       "active_ingredient": "Glifosato",
-      "image": null
+      "image": null,
+      "description": "Herbicida não seletivo sistêmico à base de Glifosato em formulação granulada (WG) para controle de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
       "id": "rainbow-glifosato-ipa-5lt",
@@ -1437,7 +1512,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-02/glifosato_ipa_480_rainbow.pdf",
       "active_ingredient": "Glifosato IPA 480",
-      "image": null
+      "image": null,
+      "description": "Herbicida não seletivo sistêmico à base de Glifosato IPA 480 g/L para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
       "id": "rainbow-glifosato-ipa-20lt",
@@ -1451,7 +1527,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-02/glifosato_ipa_480_rainbow.pdf",
       "active_ingredient": "Glifosato IPA 480",
-      "image": null
+      "image": null,
+      "description": "Herbicida não seletivo sistêmico à base de Glifosato IPA 480 g/L para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
       "id": "rainbow-skip-125sc-5lt",
@@ -1464,8 +1541,9 @@
       "category": "Defensivos",
       "subcategory": "Inseticidas",
       "leaflet_url": "https://www.rainbowagro.com.br/wp-content/uploads/2024/07/Bula_Skip-125-SC_Rev20231207.pdf",
-      "active_ingredient": "Flutriafol",
-      "image": null
+      "active_ingredient": "Flutriafol (125 g/L)",
+      "image": null,
+      "description": "Fungicida sistêmico triazol à base de Flutriafol para controle de ferrugem e outras doenças fúngicas em soja, milho, trigo e outras culturas."
     },
     {
       "id": "ourofino-aclamado-20lt",
@@ -1477,9 +1555,10 @@
       "packaging_size": "20L",
       "category": "Defensivos",
       "subcategory": "Herbicidas",
-      "leaflet_url": null,
+      "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/aclamadobr0919.pdf",
       "active_ingredient": "Atrazina",
-      "image": null
+      "image": null,
+      "description": "Herbicida sistêmico à base de Atrazina para controle pré e pós-emergente de plantas daninhas em milho e cana-de-açúcar."
     },
     {
       "id": "ourofino-poderus-20lt",
@@ -1493,7 +1572,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-07/poderus.pdf",
       "active_ingredient": "Azoxistrobina e Ciproconazol",
-      "image": null
+      "image": null,
+      "description": "Fungicida sistêmico que combina estrobilurina (Azoxistrobina) e triazol (Ciproconazol) para controle preventivo e curativo de doenças em soja, milho e cereais."
     },
     {
       "id": "ourofino-poderus-5lt",
@@ -1507,7 +1587,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-07/poderus.pdf",
       "active_ingredient": "Azoxistrobina e Ciproconazol",
-      "image": null
+      "image": null,
+      "description": "Fungicida sistêmico que combina estrobilurina (Azoxistrobina) e triazol (Ciproconazol) para controle preventivo e curativo de doenças em soja, milho e cereais."
     },
     {
       "id": "ourofino-quallis-20lt",
@@ -1521,7 +1602,8 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2023-02/quallis.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": null
+      "image": null,
+      "description": "Herbicida hormonal sistêmico com 2,4-D e Picloram para controle eficiente de plantas daninhas de difícil controle em pastagens e lavouras."
     },
     {
       "id": "ourofino-teburaz-20lt",
@@ -1535,7 +1617,8 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-10/teburaz.pdf",
       "active_ingredient": "Azoxistrobina e Tebuconazol",
-      "image": null
+      "image": null,
+      "description": "Fungicida sistêmico com estrobilurina (Azoxistrobina) e triazol (Tebuconazol), com ação protetora e curativa de amplo espectro para soja e cereais de inverno."
     },
     {
       "id": "ourofino-vivantha-1kg",
@@ -1549,7 +1632,8 @@
       "subcategory": "Inseticidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2023-04/vivantha.pdf",
       "active_ingredient": "Tiametoxam",
-      "image": null
+      "image": null,
+      "description": "Inseticida sistêmico neonicotinoide (Tiametoxam) para tratamento de sementes, protege as plantas nas fases iniciais do desenvolvimento contra pragas de solo e sugadores."
     },
     {
       "id": "husqvarna-derricador-ch12",
@@ -1563,7 +1647,8 @@
       "subcategory": "Derricadores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Derricador de cafe portatil leve e compacto, ideal para colheita mecanizada de pequenas propriedades cafeeiras com maior rendimento e reducao de perda de graos."
     },
     {
       "id": "husqvarna-derricador-kd24",
@@ -1577,7 +1662,8 @@
       "subcategory": "Derricadores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Derricador duplo de alta capacidade para colheita de cafe, equipado com dois pentes vibratórios para máximo rendimento operacional por hora trabalhada."
     },
     {
       "id": "husqvarna-motocultivador-tf338",
@@ -1591,7 +1677,8 @@
       "subcategory": "Agricola",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motocultivador a gasolina de baixo consumo para preparo e cultivo de solo em hortas e pequenas lavouras, com fresas robustas e facil manuseio."
     },
     {
       "id": "husqvarna-motocultivador-tf440",
@@ -1605,7 +1692,8 @@
       "subcategory": "Agricola",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motocultivador potente e versátil para preparo profundo de solo em médias propriedades, com sistema de fresas de alto desempenho e conforto operacional."
     },
     {
       "id": "husqvarna-motosserra-120",
@@ -1619,7 +1707,8 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motosserra leve 14\" para uso doméstico e jardinagem, com sistema X-Torq de baixo consumo e emissão, ideal para podas e corte de lenha em pequenos volumes."
     },
     {
       "id": "husqvarna-motosserra-272",
@@ -1633,7 +1722,8 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motosserra profissional 20\" de alta potência e durabilidade para uso florestal e silvicultura, com grande capacidade de corte e confiabilidade em trabalhos intensos."
     },
     {
       "id": "husqvarna-motosserra-281",
@@ -1647,7 +1737,8 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motosserra profissional 20\" de desempenho superior para trabalhos florestais exigentes, com motor de alta potência, sabre resistente e ergonomia avançada."
     },
     {
       "id": "husqvarna-motosserra-288",
@@ -1661,7 +1752,8 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motosserra de grande porte 24\" para corte de madeiras pesadas e árvores de grande diâmetro, com motor de alta cilindrada e sabre longo de máxima resistência."
     },
     {
       "id": "husqvarna-motosserra-61",
@@ -1675,7 +1767,8 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Motosserra profissional 18\" de alta relação potência-peso para silvicultura e exploração florestal, com sistema AutoTune de ajuste automático de carburação."
     },
     {
       "id": "husqvarna-perfurador-541ea",
@@ -1689,7 +1782,8 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Perfurador de solo a gasolina para abertura de covas de plantio, instalação de mourões e postes. Motor potente com auger de alta penetração em diferentes tipos de solo."
     },
     {
       "id": "husqvarna-rocadeira-143rs",
@@ -1703,7 +1797,8 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Roçadeira a gasolina leve e manobável para manutenção de pastagens, aceiros e áreas de difícil acesso, com baixo consumo e fácil partida."
     },
     {
       "id": "husqvarna-rocadeira-226k",
@@ -1717,7 +1812,8 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Roçadeira profissional com sistema de polia articulada para alcance em barrancos e taludes, com sistema LowVib de redução de vibrações para maior conforto."
     },
     {
       "id": "husqvarna-rocadeira-226rj",
@@ -1731,7 +1827,8 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Roçadeira multifuncional com haste telescópica e cabeçote intercambiável para diversas aplicações em pastagens, pomares e áreas de cultivo."
     },
     {
       "id": "husqvarna-rocadeira-541rb",
@@ -1745,7 +1842,8 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Roçadeira profissional de alta potência para trabalhos intensivos em grandes áreas e vegetação densa, com motor robusto e sistema anti-vibração avançado."
     },
     {
       "id": "husqvarna-soprador-570bts",
@@ -1759,7 +1857,8 @@
       "subcategory": "Sopradores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Soprador costal de grande volume de ar para limpeza de grandes áreas, colheita de café e remoção de folhagem em propriedades de médio e grande porte."
     },
     {
       "id": "husqvarna-soprador-125b",
@@ -1773,7 +1872,8 @@
       "subcategory": "Sopradores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Soprador a gasolina leve e compacto para jardinagem residencial e comercial, ideal para limpeza de calçadas, pátios e jardins com facilidade de manuseio."
     },
     {
       "id": "husqvarna-soprador-125bvx",
@@ -1787,7 +1887,8 @@
       "subcategory": "Sopradores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Soprador/aspirador a gasolina com função trituração, permite soprar e aspirar folhas com trituração integrada para facilitar o descarte do material recolhido."
     },
     {
       "id": "phox-acelerafos-25kg",
@@ -1800,8 +1901,9 @@
       "category": "Fertilizantes",
       "subcategory": "Corretivos",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "Fosfato Natural + CaO + MgO + S + Si + B + Zn + Mn",
+      "image": null,
+      "description": "Fertilizante natural multifuncional que combina fosforo de liberacao imediata e gradual com calcio, magnesio, enxofre, silicio e micronutrientes em uma unica aplicacao."
     },
     {
       "id": "geox-hd-500kg",
@@ -1815,7 +1917,8 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "45% CaO + 20% MgO PRNT 134",
-      "image": null
+      "image": null,
+      "description": "Cal virgem dolomitica granulada de alta reatividade (PRNT 134) para correcao rapida e eficiente do pH do solo em grandes areas."
     },
     {
       "id": "geox-hd-25kg",
@@ -1829,7 +1932,8 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "45% CaO + 20% MgO PRNT 134",
-      "image": null
+      "image": null,
+      "description": "Cal virgem dolomitica granulada de alta reatividade (PRNT 134) para correcao rapida e eficiente do pH do solo."
     },
     {
       "id": "geox-duo-500kg",
@@ -1843,7 +1947,8 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "44% CaO + 18% MgO, Óxido + Carbonato. PRNT 120",
-      "image": null
+      "image": null,
+      "description": "Corretivo granulado de solo com formulacao dupla de oxido e carbonato (PRNT 120), que combina acao imediata e residual para correcao sustentada do pH."
     },
     {
       "id": "geox-super-s-500kg",
@@ -1857,7 +1962,8 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "54% CaO + 18% MgO + 11% SO3",
-      "image": null
+      "image": null,
+      "description": "Corretivo de solo granulado enriquecido com enxofre (11% SO3), ideal para culturas exigentes em enxofre e solos com deficiencia combinada de pH e S."
     },
     {
       "id": "geox-active-25kg",
@@ -1870,8 +1976,9 @@
       "category": "Fertilizantes",
       "subcategory": "Corretivos",
       "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "active_ingredient": "CaO 60% + MgO 30% (cal virgem dolomitica, PRNT 175%)",
+      "image": null,
+      "description": "Cal virgem dolomitica em po de altissima reatividade (PRNT 175%), com maximo poder de neutralizacao de acidez para correcao emergencial e eficiente do solo."
     },
     {
       "id": "caltimag-40kg",
@@ -1883,9 +1990,10 @@
       "packaging_size": "40kg",
       "category": "Fertilizantes",
       "subcategory": "Corretivos",
-      "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "leaflet_url": "https://www.caltim.com.br/ficha-tecnica/ficha_caltimag.pdf",
+      "active_ingredient": "CaO 27,9% + MgO 19%",
+      "image": null,
+      "description": "Corretivo de acidez do solo de alta reatividade, fornece calcio e magnesio para neutralizacao do pH e melhoria das condicoes fisicas e quimicas do solo."
     },
     {
       "id": "caltimag-boro-40kg",
@@ -1897,9 +2005,10 @@
       "packaging_size": "40kg",
       "category": "Fertilizantes",
       "subcategory": "Corretivos",
-      "leaflet_url": null,
-      "active_ingredient": null,
-      "image": null
+      "leaflet_url": "https://www.caltim.com.br/ficha-tecnica/ficha_caltimag+b.pdf",
+      "active_ingredient": "CaO 26% + MgO 17,9% + B 0,3%",
+      "image": null,
+      "description": "Corretivo de acidez do solo enriquecido com boro, combina correcao de pH com fornecimento de calcio, magnesio e micronutriente essencial para diversas culturas."
     },
     {
       "id": "pano-cafe-6x3",
@@ -1913,7 +2022,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 6x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
       "id": "pano-cafe-8x3",
@@ -1927,7 +2037,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 8x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
       "id": "pano-cafe-10x3",
@@ -1941,7 +2052,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 10x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
       "id": "pano-cafe-12x3",
@@ -1955,7 +2067,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 12x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
       "id": "pano-cafe-15x3",
@@ -1969,7 +2082,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 15x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
       "id": "pano-cafe-20x3",
@@ -1983,7 +2097,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 20x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
       "id": "big-bag-colheita",
@@ -1997,7 +2112,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Big Bag flexível 90x90x120cm para colheita e transporte de grãos de café, com alta resistência e capacidade de carga, facilita o manejo pós-colheita."
     },
     {
       "id": "pano-cafe-8x4",
@@ -2011,7 +2127,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 8x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
       "id": "pano-cafe-10x4",
@@ -2025,7 +2142,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 10x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
       "id": "pano-cafe-12x4",
@@ -2039,7 +2157,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 12x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
       "id": "pano-cafe-15x4",
@@ -2053,7 +2172,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 15x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
       "id": "pano-cafe-20x4",
@@ -2067,7 +2187,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido 20x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
       "id": "pano-cafe-10x4-preto",
@@ -2081,7 +2202,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido preto 10x4m para colheita de café, cor escura que facilita a visualização e separação dos grãos durante a colheita."
     },
     {
       "id": "pano-cafe-12x4-preto",
@@ -2095,7 +2217,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Pano de polipropileno tecido preto 12x4m para colheita de café, cor escura que facilita a visualização e separação dos grãos durante a colheita."
     },
     {
       "id": "lona-pb-8x50-40kg",
@@ -2109,7 +2232,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Lona plástica preta/branca 8x50m, 100 micras (40kg), para cobertura de grãos, silagem, proteção de solo e diversas finalidades agrícolas."
     },
     {
       "id": "lona-pb-8x50-60kg",
@@ -2123,7 +2247,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Lona plástica preta/branca 8x50m, 150 micras (60kg), maior resistência e durabilidade para cobertura de grãos, silagem e proteção de solo em longas safras."
     },
     {
       "id": "lona-preta-4x110-40kg",
@@ -2137,7 +2262,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Lona preta 4x110m, 90 micras (40kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
       "id": "lona-preta-6x50-30kg",
@@ -2151,7 +2277,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Lona preta 6x50m, 100 micras (30kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
       "id": "lona-preta-8x50-40kg",
@@ -2165,7 +2292,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Lona preta 8x50m, 100 micras (40kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
       "id": "lona-preta-8x50-60kg",
@@ -2179,7 +2307,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Lona preta 8x50m, 150 micras (60kg), maior durabilidade para cobertura de grãos, silagem e proteção de solo em longas safras."
     },
     {
       "id": "luva-pigmento-preto",
@@ -2193,7 +2322,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Luva de segurança com pigmento e punho preto para proteção das mãos durante colheita e manuseio de insumos agrícolas, com resistência e conforto."
     },
     {
       "id": "luva-pigmento-azul-g",
@@ -2207,7 +2337,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Luva de segurança com pigmento e punho azul, tamanho G, para proteção das mãos durante atividades de colheita e manuseio de produtos agrícolas."
     },
     {
       "id": "luva-pigmento-vermelha-gg",
@@ -2221,7 +2352,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Luva de segurança com pigmento e punho vermelho, tamanho GG, para proteção das mãos durante colheita e manuseio de insumos agrícolas."
     },
     {
       "id": "luva-pigmento-laranja-gg",
@@ -2235,7 +2367,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Luva de segurança com pigmento e punho laranja, tamanho GG, para proteção das mãos durante atividades de colheita e manuseio de produtos agrícolas."
     },
     {
       "id": "saco-60x90",
@@ -2249,7 +2382,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Saco de polipropileno convencional 60x90cm para acondicionamento e transporte de grãos, café e outros produtos agrícolas a granel."
     },
     {
       "id": "saco-60x90-listra",
@@ -2263,7 +2397,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Saco de polipropileno branco/colorido com listras 60x90cm para acondicionamento e identificação de grãos, café e produtos agrícolas."
     },
     {
       "id": "saco-60x100-listra",
@@ -2277,7 +2412,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Saco de polipropileno branco/colorido com listras 60x100cm para acondicionamento e identificação de grãos, café e produtos agrícolas."
     },
     {
       "id": "saco-70x100-listra",
@@ -2291,7 +2427,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Saco de polipropileno branco/colorido com listras 70x100cm para acondicionamento e identificação de grãos, café e produtos agrícolas a granel."
     },
     {
       "id": "saco-70x110-listra",
@@ -2305,7 +2442,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Saco de polipropileno branco/colorido com listras 70x110cm para acondicionamento e identificação de grãos, café e produtos agrícolas de maior volume."
     },
     {
       "id": "saco-rafia-60x90",
@@ -2319,7 +2457,8 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": null
+      "image": null,
+      "description": "Saco de ráfia laminado marrom 60x90cm, resistente e impermeável, ideal para ensacar café beneficiado, grãos e produtos com exigência de proteção à umidade."
     },
     {
       "id": "amino-plus-1lt",
@@ -2332,9 +2471,10 @@
       "category": "fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
+      "active_ingredient": "N 11% (132 g/L) + K2O 1% + COT 6%",
       "image": null,
-      "in_stock": false
+      "in_stock": false,
+      "description": "Fertilizante organomineral rico em compostos organicos naturais com poderosa acao antiestressante, para aplicacao foliar e fertirrigacao em diversas culturas."
     },
     {
       "id": "amino-plus-5lt",
@@ -2347,9 +2487,10 @@
       "category": "fertilizantes",
       "subcategory": "Foliares",
       "leaflet_url": null,
-      "active_ingredient": null,
+      "active_ingredient": "N 11% (132 g/L) + K2O 1% + COT 6%",
       "image": null,
-      "in_stock": false
+      "in_stock": false,
+      "description": "Fertilizante organomineral rico em compostos organicos naturais com poderosa acao antiestressante, para aplicacao foliar e fertirrigacao em diversas culturas."
     }
   ],
   "brands": [
