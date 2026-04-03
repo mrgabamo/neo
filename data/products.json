@@ -2296,6 +2296,21 @@
       "description": "Lona preta 8x50m, 100 micras (40kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
+      "id": "lona-preta-branca-8x50-40kg",
+      "code": "0007266",
+      "name": "Lona Preta/Branca 8x50m 40kg (100 micras)",
+      "variant": null,
+      "brand": "PANO-LONA-BAG",
+      "packaging_type": "UN",
+      "packaging_size": "40KG",
+      "category": "Produtos para colheita",
+      "subcategory": "Diversos",
+      "leaflet_url": null,
+      "active_ingredient": null,
+      "image": null,
+      "description": "Lona plástica preta/branca de 100 micras, dimensões 8x50m, com 40kg."
+    },
+    {
       "id": "lona-preta-8x50-60kg",
       "code": "0003739",
       "name": "Lona Preta 8x50m 60kg (150 micras)",
