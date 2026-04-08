@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#0d1b2a"/>
+  <rect x="1" y="1" width="398" height="298" fill="none" stroke="#1e3a5f" stroke-width="1.5"/>
+  <!-- Neo logo N outline -->
+  <g transform="translate(136,72) scale(0.0105)">
+    <polygon points="4951.23,0 5972.08,0 4488.39,2716.6 3437.31,2716.6 2483.03,1283.92 1974.51,2194.87 823.16,2194.87 1755.57,518.45 2898.96,518.45 3904.33,1883.75"
+      fill="none" stroke="#00E8FF" stroke-width="35"/>
+  </g>
+  <!-- "neo" text -->
+  <text x="200" y="148" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#00E8FF" text-anchor="middle" letter-spacing="6">neo</text>
+  <text x="200" y="168" font-family="Arial, sans-serif" font-size="9" fill="#00E8FF" text-anchor="middle" letter-spacing="3">fertilizantes especiais</text>
+  <!-- Divider -->
+  <line x1="120" y1="190" x2="280" y2="190" stroke="#1e3a5f" stroke-width="1"/>
+  <!-- "Imagem em breve" -->
+  <text x="200" y="218" font-family="Arial, sans-serif" font-size="13" fill="#4a6a8a" text-anchor="middle" letter-spacing="1">Imagem em breve</text>
+</svg>
