@@ -27,7 +27,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-10/soleado_50_wg.pdf",
       "active_ingredient": "Boscalida (500g/kg)",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sipcam/soleado-50wg.png",
       "description": "Fungicida sistêmico do grupo carboxamida (Boscalida) para controle de doenças em soja, cereais e hortaliças, com ação preventiva e curativa de amplo espectro."
     },
     {
@@ -72,7 +72,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://assets.revistacultivar.com.br/c24984fe-9a22-46c3-9c50-928ca5caccf0_elios_800_wg_bula.pdf",
       "active_ingredient": "Flutriafol (800 g/kg)",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sipcam/elios-800wg.png",
       "description": "Fungicida sistêmico de alta concentração em Boscalida para controle eficiente de oídio, mofo cinzento e outras doenças em hortaliças, frutíferas e cereais."
     },
     {
@@ -762,7 +762,7 @@
       "subcategory": "Organo mineral",
       "leaflet_url": null,
       "active_ingredient": "N 2% + P2O5 18% + Ca 8%",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/neo/neo-02-18-00.png",
       "description": "Fertilizante mineral misto granulado com formula 02-18-00 + 8% Ca, indicado para adubação de plantio com ênfase em fósforo e cálcio."
     },
     {
@@ -777,7 +777,7 @@
       "subcategory": "Organo mineral",
       "leaflet_url": null,
       "active_ingredient": "N 10% + P2O5 2% + K2O 10% + S 10% + B 0,3% + Zn 0,2%",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/neo/neo-10-02-10.png",
       "description": "Fertilizante mineral misto granulado com formula 10-02-10 enriquecido com enxofre, boro e zinco para adubação completa de plantio e cobertura."
     },
     {
@@ -792,7 +792,7 @@
       "subcategory": "Organo mineral",
       "leaflet_url": null,
       "active_ingredient": "N 14% + P2O5 2% + K2O 10%",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/neo/neo-14-02-10.png",
       "description": "Fertilizante mineral misto foliar granulado com formula 14-02-10 para adubação de cobertura e manutenção nutricional equilibrada de diversas culturas."
     },
     {
@@ -807,7 +807,7 @@
       "subcategory": "Organo mineral",
       "leaflet_url": null,
       "active_ingredient": "N 14% + P2O5 2% + K2O 14%",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/neo/neo-14-02-14.png",
       "description": "Fertilizante mineral misto foliar granulado com formula 14-02-14 para adubação de cobertura com foco em nitrogenio e potassio em culturas exigentes."
     },
     {
@@ -822,7 +822,7 @@
       "subcategory": "Organo mineral",
       "leaflet_url": null,
       "active_ingredient": "N 14% + P2O5 2% + K2O 8%",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/neo/neo-14-02-08.png",
       "description": "Fertilizante mineral misto foliar granulado com formula 14-02-08 para adubação de manutenção e cobertura em diversas culturas."
     },
     {
@@ -837,7 +837,7 @@
       "subcategory": "Organo mineral",
       "leaflet_url": null,
       "active_ingredient": "N 29%",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/neo/neo-29-00-00.png",
       "description": "Fertilizante mineral simples foliar granulado com alta concentração de nitrogenio (29%), ideal para adubação nitrogenada de cobertura em gramíneas e culturas exigentes."
     },
     {
@@ -972,7 +972,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-helper-perenes-1lt.png",
       "description": "Adjuvante para culturas perenes com folhas cerosas, aumenta a retencao de gotas e a absorcao dos ingredientes ativos aplicados em cafe, citros e outras perenes."
     },
     {
@@ -987,7 +987,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-keep-green-5lt.png",
       "description": "Biofertilizante pioneiro para protecao das folhas contra excesso de radiacao solar em cafeeiros e culturas perenes, reduz estresse luminico e aumenta produtividade."
     },
     {
@@ -1002,7 +1002,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-keep-green-25lt.png",
       "description": "Biofertilizante pioneiro para protecao das folhas contra excesso de radiacao solar em cafeeiros e culturas perenes, reduz estresse luminico e aumenta produtividade."
     },
     {
@@ -1032,7 +1032,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-kellus-imune-5kg.png",
       "description": "Fertilizante foliar elicitor com nutrientes exclusivos que ativam o sistema de defesa das plantas, gerando protecao fisiologica por meio de mudancas estruturais e bioquimicas."
     },
     {
@@ -1062,7 +1062,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-kellus-zinco-3kg.png",
       "description": "Fertilizante foliar de zinco quelado de alta absorcao e translocacao para prevencao e correcao de deficiencias de zinco em soja, milho, cafe e outras culturas."
     },
     {
@@ -1077,7 +1077,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-nutriduo-10kg.png",
       "description": "Fertilizante foliar fisiologico para soja com tecnologia antioxidante e biofortificacao, contendo selenio, zinco e magnesio para incremento de produtividade e qualidade de graos."
     },
     {
@@ -1122,7 +1122,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-profol-sais-25kg.png",
       "description": "Fertilizante foliar em formulacao solida com sais minerais de alta solubilidade para nutricao completa do ciclo das culturas com praticidade logistica."
     },
     {
@@ -1152,7 +1152,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/icl/icl-triplus-perenes-1lt.png",
       "description": "Fertilizante fisiologico com tripla acao (bioregulacao, retencao e nutricao) para incremento de pegamento de flores e frutos em cafeeiros e outras culturas perenes."
     },
     {
@@ -1362,7 +1362,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-02/ally.pdf",
       "active_ingredient": "Metsulfurom-Metílico",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/fmc/fmc-ally-60xp-40gr.png",
       "description": "Herbicida sistêmico seletivo do grupo sulfonilureia para controle pós-emergente de plantas daninhas de folha larga em cereais de inverno e pastagens."
     },
     {
@@ -1377,7 +1377,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/aurora_400_ec.pdf",
       "active_ingredient": "Carfentrazona-Etílica",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/fmc/fmc-aurora-400ec-1lt.png",
       "description": "Herbicida de contato e ação sistêmica para dessecação pré-colheita e controle de plantas daninhas de folha larga em diversas culturas."
     },
     {
@@ -1392,7 +1392,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/aurora_400_ec.pdf",
       "active_ingredient": "Carfentrazona-Etílica",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/fmc/fmc-aurora-400ec-250ml.png",
       "description": "Herbicida de contato e ação sistêmica para dessecação pré-colheita e controle de plantas daninhas de folha larga em diversas culturas."
     },
     {
@@ -1407,7 +1407,7 @@
       "subcategory": "Inseticidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2023-12/altacor.pdf",
       "active_ingredient": "Clorantraniliprole",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/fmc/fmc-altacor-35wg-450gr.png",
       "description": "Inseticida diamida de nova geração para controle de lagartas e outros lepidópteros, com alta seletividade a inimigos naturais e longa persistência de ação."
     },
     {
@@ -1422,7 +1422,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-04/boral_500_sc.pdf",
       "active_ingredient": "Sulfentrazona",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/fmc/fmc-boral-500sc-1lt.png",
       "description": "Herbicida seletivo de ação sistêmica e residual do grupo trifenilcetona para controle de plantas daninhas em pastagens, cana-de-açúcar e reflorestamento."
     },
     {
@@ -1437,7 +1437,7 @@
       "subcategory": "Inseticidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/premio_star.pdf",
       "active_ingredient": "Clorantraniliprole e Bifentrina",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/fmc/fmc-premio-star-1lt.png",
       "description": "Inseticida com dupla ação (diamida + piretroide) para controle simultâneo de lagartas e percevejos, garantindo amplo espectro e maior praticidade de manejo."
     },
     {
@@ -1467,7 +1467,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-09/adiconstar.pdf",
       "active_ingredient": "Azoxistrobina + Difenoconazol (200 g/L + 125 g/L)",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/rainbow/rainbow-adiconstar-5lt.png",
       "description": "Fungicida sistêmico premium com dupla ação (Azoxistrobina + Difenoconazol) para controle preventivo e curativo de doenças em soja, milho, trigo e outras culturas."
     },
     {
@@ -1482,7 +1482,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-11/fullguard.pdf",
       "active_ingredient": "Carfentrazona-Etílica",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/rainbow/rainbow-fullguard-1lt.png",
       "description": "Herbicida de contato rápido à base de Carfentrazona-Etílica para dessecação e controle de plantas daninhas em pré-colheita e manejo de palhada."
     },
     {
@@ -1542,7 +1542,7 @@
       "subcategory": "Inseticidas",
       "leaflet_url": "https://www.rainbowagro.com.br/wp-content/uploads/2024/07/Bula_Skip-125-SC_Rev20231207.pdf",
       "active_ingredient": "Flutriafol (125 g/L)",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/rainbow/rainbow-skip-125sc-5lt.png",
       "description": "Fungicida sistêmico triazol à base de Flutriafol para controle de ferrugem e outras doenças fúngicas em soja, milho, trigo e outras culturas."
     },
     {
@@ -1902,7 +1902,7 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "Fosfato Natural + CaO + MgO + S + Si + B + Zn + Mn",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/phox-fertilizantes/phox-acelerafos-25kg.png",
       "description": "Fertilizante natural multifuncional que combina fosforo de liberacao imediata e gradual com calcio, magnesio, enxofre, silicio e micronutrientes em uma unica aplicacao."
     },
     {
@@ -1917,7 +1917,7 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "45% CaO + 20% MgO PRNT 134",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/geox/geox-hd-500kg.png",
       "description": "Cal virgem dolomitica granulada de alta reatividade (PRNT 134) para correcao rapida e eficiente do pH do solo em grandes areas."
     },
     {
@@ -1932,7 +1932,7 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "45% CaO + 20% MgO PRNT 134",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/geox/geox-hd-25kg.png",
       "description": "Cal virgem dolomitica granulada de alta reatividade (PRNT 134) para correcao rapida e eficiente do pH do solo."
     },
     {
@@ -1947,7 +1947,7 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "44% CaO + 18% MgO, Óxido + Carbonato. PRNT 120",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/geox/geox-duo-500kg.png",
       "description": "Corretivo granulado de solo com formulacao dupla de oxido e carbonato (PRNT 120), que combina acao imediata e residual para correcao sustentada do pH."
     },
     {
@@ -1962,7 +1962,7 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "54% CaO + 18% MgO + 11% SO3",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/geox/geox-super-s-500kg.png",
       "description": "Corretivo de solo granulado enriquecido com enxofre (11% SO3), ideal para culturas exigentes em enxofre e solos com deficiencia combinada de pH e S."
     },
     {
@@ -1977,7 +1977,7 @@
       "subcategory": "Corretivos",
       "leaflet_url": null,
       "active_ingredient": "CaO 60% + MgO 30% (cal virgem dolomitica, PRNT 175%)",
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/geox/geox-active-25kg.png",
       "description": "Cal virgem dolomitica em po de altissima reatividade (PRNT 175%), com maximo poder de neutralizacao de acidez para correcao emergencial e eficiente do solo."
     },
     {
@@ -2022,7 +2022,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-6x3.png",
       "description": "Pano de polipropileno tecido 6x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
@@ -2037,7 +2037,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-8x3.png",
       "description": "Pano de polipropileno tecido 8x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
@@ -2052,7 +2052,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-10x3.png",
       "description": "Pano de polipropileno tecido 10x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
@@ -2067,7 +2067,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-12x3.png",
       "description": "Pano de polipropileno tecido 12x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
@@ -2082,7 +2082,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-15x3.png",
       "description": "Pano de polipropileno tecido 15x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
@@ -2097,7 +2097,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-20x3.png",
       "description": "Pano de polipropileno tecido 20x3m para colheita de café, resistente e durável, permite o recolhimento eficiente dos grãos derriçados da planta."
     },
     {
@@ -2112,7 +2112,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/big-bag-colheita.png",
       "description": "Big Bag flexível 90x90x120cm para colheita e transporte de grãos de café, com alta resistência e capacidade de carga, facilita o manejo pós-colheita."
     },
     {
@@ -2127,7 +2127,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-8x4.png",
       "description": "Pano de polipropileno tecido 8x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
@@ -2142,7 +2142,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-10x4.png",
       "description": "Pano de polipropileno tecido 10x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
@@ -2157,7 +2157,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-12x4.png",
       "description": "Pano de polipropileno tecido 12x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
@@ -2172,7 +2172,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-15x4.png",
       "description": "Pano de polipropileno tecido 15x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
@@ -2187,7 +2187,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-20x4.png",
       "description": "Pano de polipropileno tecido 20x4m para colheita de café, maior área de cobertura para derriça mecanizada e manual com mais eficiência."
     },
     {
@@ -2202,7 +2202,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-10x4-preto.png",
       "description": "Pano de polipropileno tecido preto 10x4m para colheita de café, cor escura que facilita a visualização e separação dos grãos durante a colheita."
     },
     {
@@ -2217,7 +2217,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/pano-cafe-12x4-preto.png",
       "description": "Pano de polipropileno tecido preto 12x4m para colheita de café, cor escura que facilita a visualização e separação dos grãos durante a colheita."
     },
     {
@@ -2232,7 +2232,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-pb-8x50-40kg.png",
       "description": "Lona plástica preta/branca 8x50m, 100 micras (40kg), para cobertura de grãos, silagem, proteção de solo e diversas finalidades agrícolas."
     },
     {
@@ -2247,7 +2247,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-pb-8x50-60kg.png",
       "description": "Lona plástica preta/branca 8x50m, 150 micras (60kg), maior resistência e durabilidade para cobertura de grãos, silagem e proteção de solo em longas safras."
     },
     {
@@ -2262,7 +2262,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-preta-4x110-40kg.png",
       "description": "Lona preta 4x110m, 90 micras (40kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
@@ -2277,7 +2277,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-preta-6x50-30kg.png",
       "description": "Lona preta 6x50m, 100 micras (30kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
@@ -2292,7 +2292,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-preta-8x50-40kg.png",
       "description": "Lona preta 8x50m, 100 micras (40kg), para cobertura de grãos, silagem, canteiros e proteção contra ervas daninhas em estufas e terreiros."
     },
     {
@@ -2307,7 +2307,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-preta-branca-8x50-40kg.png",
       "description": "Lona plástica preta/branca de 100 micras, dimensões 8x50m, com 40kg."
     },
     {
@@ -2322,7 +2322,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/pano-lona-bag/lona-preta-8x50-60kg.png",
       "description": "Lona preta 8x50m, 150 micras (60kg), maior durabilidade para cobertura de grãos, silagem e proteção de solo em longas safras."
     },
     {
@@ -2337,7 +2337,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/equipamento/luva-pigmento-preto.png",
       "description": "Luva de segurança com pigmento e punho preto para proteção das mãos durante colheita e manuseio de insumos agrícolas, com resistência e conforto."
     },
     {
@@ -2352,7 +2352,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/equipamento/luva-pigmento-azul-g.png",
       "description": "Luva de segurança com pigmento e punho azul, tamanho G, para proteção das mãos durante atividades de colheita e manuseio de produtos agrícolas."
     },
     {
@@ -2367,7 +2367,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/equipamento/luva-pigmento-vermelha-gg.png",
       "description": "Luva de segurança com pigmento e punho vermelho, tamanho GG, para proteção das mãos durante colheita e manuseio de insumos agrícolas."
     },
     {
@@ -2382,7 +2382,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/equipamento/luva-pigmento-laranja-gg.png",
       "description": "Luva de segurança com pigmento e punho laranja, tamanho GG, para proteção das mãos durante atividades de colheita e manuseio de produtos agrícolas."
     },
     {
@@ -2397,7 +2397,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sacaria/saco-60x90.png",
       "description": "Saco de polipropileno convencional 60x90cm para acondicionamento e transporte de grãos, café e outros produtos agrícolas a granel."
     },
     {
@@ -2412,7 +2412,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sacaria/saco-60x90-listra.png",
       "description": "Saco de polipropileno branco/colorido com listras 60x90cm para acondicionamento e identificação de grãos, café e produtos agrícolas."
     },
     {
@@ -2427,7 +2427,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sacaria/saco-60x100-listra.png",
       "description": "Saco de polipropileno branco/colorido com listras 60x100cm para acondicionamento e identificação de grãos, café e produtos agrícolas."
     },
     {
@@ -2442,7 +2442,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sacaria/saco-70x100-listra.png",
       "description": "Saco de polipropileno branco/colorido com listras 70x100cm para acondicionamento e identificação de grãos, café e produtos agrícolas a granel."
     },
     {
@@ -2457,7 +2457,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sacaria/saco-70x110-listra.png",
       "description": "Saco de polipropileno branco/colorido com listras 70x110cm para acondicionamento e identificação de grãos, café e produtos agrícolas de maior volume."
     },
     {
@@ -2472,7 +2472,7 @@
       "subcategory": "Diversos",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/placeholder.svg",
+      "image": "images/products/sacaria/saco-rafia-60x90.png",
       "description": "Saco de ráfia laminado marrom 60x90cm, resistente e impermeável, ideal para ensacar café beneficiado, grãos e produtos com exigência de proteção à umidade."
     },
     {
