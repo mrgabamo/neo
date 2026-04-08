@@ -12,7 +12,7 @@
       "subcategory": "Biológicos",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2021-03/metrimex500sc.pdf",
       "active_ingredient": "Ametrina (500g/L)",
-      "image": "images/products/sipcam/metrimex-500sc.jpg",
+      "image": "images/products/sipcam/metrimex-500sc.png",
       "description": "Herbicida sistêmico seletivo à base de Ametrina para controle de plantas daninhas em cana-de-açúcar e abacaxi, com ação por contato e absorção radicular."
     },
     {
@@ -42,7 +42,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-03/cuprozeb.pdf",
       "active_ingredient": "Mancozebe (440g/kg), Oxicloreto de cobre (300g/kg)",
-      "image": "images/products/sipcam/cuprozeb-wg.jpg",
+      "image": "images/products/sipcam/cuprozeb-wg.png",
       "description": "Fungicida cúprico de contato com dupla ação (Mancozebe + Oxicloreto de Cobre) para controle preventivo de doenças fúngicas e bacterianas em diversas culturas."
     },
     {
@@ -57,7 +57,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-02/metiltiofan_0.pdf",
       "active_ingredient": "Tiofanato-Metílico (700g/kg)",
-      "image": "images/products/sipcam/metiltiofan-700wp.jpg",
+      "image": "images/products/sipcam/metiltiofan-700wp.png",
       "description": "Fungicida sistêmico do grupo benzimidazol (Tiofanato-Metílico) de amplo espectro para controle de diversas doenças fúngicas em cereais, hortaliças e frutíferas."
     },
     {
@@ -147,7 +147,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-07/pocco480sl.pdf",
       "active_ingredient": "Glifosato (sal de isopropilamina, 480 g/L)",
-      "image": "images/products/tide/glifosato-pocco-1lt.jpg",
+      "image": "images/products/tide/glifosato-pocco-1lt.png",
       "description": "Herbicida não seletivo sistêmico para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
@@ -162,7 +162,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-07/pocco480sl.pdf",
       "active_ingredient": "Glifosato (sal de isopropilamina, 480 g/L)",
-      "image": "images/products/tide/glifosato-pocco-5lt.jpg",
+      "image": "images/products/tide/glifosato-pocco-5lt.png",
       "description": "Herbicida não seletivo sistêmico para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
@@ -177,7 +177,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-07/pocco480sl.pdf",
       "active_ingredient": "Glifosato (sal de isopropilamina, 480 g/L)",
-      "image": "images/products/tide/glifosato-pocco-20lt.jpg",
+      "image": "images/products/tide/glifosato-pocco-20lt.png",
       "description": "Herbicida não seletivo sistêmico para controle pós-emergente de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
@@ -192,7 +192,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/campd300518.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": "images/products/tide/camp-d-1lt.jpg",
+      "image": "images/products/tide/camp-d-1lt.png",
       "description": "Herbicida hormonal sistêmico de amplo espectro para controle de plantas daninhas de folha larga em pastagens, lavouras e cana-de-açúcar."
     },
     {
@@ -207,7 +207,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/campd300518.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": "images/products/tide/camp-d-5lt.jpg",
+      "image": "images/products/tide/camp-d-5lt.png",
       "description": "Herbicida hormonal sistêmico de amplo espectro para controle de plantas daninhas de folha larga em pastagens, lavouras e cana-de-açúcar."
     },
     {
@@ -222,7 +222,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-10/campd300518.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": "images/products/tide/camp-d-20lt.jpg",
+      "image": "images/products/tide/camp-d-20lt.png",
       "description": "Herbicida hormonal sistêmico de amplo espectro para controle de plantas daninhas de folha larga em pastagens, lavouras e cana-de-açúcar."
     },
     {
@@ -237,7 +237,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-03/clorimuronprentiss.pdf",
       "active_ingredient": "Clorimurom-etílico (250 g/kg)",
-      "image": "images/products/tide/clorimurom-prentiss-300gr.jpg",
+      "image": "images/products/tide/clorimurom-prentiss-300gr.png",
       "description": "Herbicida seletivo pós-emergente e sistêmico para controle de plantas daninhas de folha larga na cultura da soja, em plantio convencional e direto."
     },
     {
@@ -252,7 +252,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-02/derrete.pdf",
       "active_ingredient": "Metsulfurom-metílico (600 g/kg)",
-      "image": "images/products/tide/metsulfurom-ultra-200gr.jpg",
+      "image": "images/products/tide/metsulfurom-ultra-200gr.png",
       "description": "Herbicida sistêmico sulfonilureia para controle pós-emergente de plantas daninhas em pastagens, trigo e triticale."
     },
     {
@@ -267,7 +267,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-11/pren-d_806_231020.pdf",
       "active_ingredient": "2,4-D (sal de dimetilamina, 806 g/L)",
-      "image": "images/products/tide/pren-d-1lt.jpg",
+      "image": "images/products/tide/pren-d-1lt.png",
       "description": "Herbicida hormonal sistêmico à base de 2,4-D para controle de folhas largas em pastagens, cereais, milho, soja e cana-de-açúcar."
     },
     {
@@ -282,7 +282,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2020-11/pren-d_806_231020.pdf",
       "active_ingredient": "2,4-D (sal de dimetilamina, 806 g/L)",
-      "image": "images/products/tide/pren-d-5lt.jpg",
+      "image": "images/products/tide/pren-d-5lt.png",
       "description": "Herbicida hormonal sistêmico à base de 2,4-D para controle de folhas largas em pastagens, cereais, milho, soja e cana-de-açúcar."
     },
     {
@@ -297,7 +297,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-05/station240sl.pdf",
       "active_ingredient": "Picloram",
-      "image": "images/products/tide/station-1lt.jpg",
+      "image": "images/products/tide/station-1lt.png",
       "description": "Herbicida sistêmico à base de Picloram para controle de plantas invasoras de difícil controle, incluindo espécies lenhosas e dicotiledôneas em pastagens."
     },
     {
@@ -312,7 +312,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-05/station240sl.pdf",
       "active_ingredient": "Picloram",
-      "image": "images/products/tide/station-5lt.jpg",
+      "image": "images/products/tide/station-5lt.png",
       "description": "Herbicida sistêmico à base de Picloram para controle de plantas invasoras de difícil controle, incluindo espécies lenhosas e dicotiledôneas em pastagens."
     },
     {
@@ -327,7 +327,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2022-05/station240sl.pdf",
       "active_ingredient": "Picloram",
-      "image": "images/products/tide/station-20lt.jpg",
+      "image": "images/products/tide/station-20lt.png",
       "description": "Herbicida sistêmico à base de Picloram para controle de plantas invasoras de difícil controle, incluindo espécies lenhosas e dicotiledôneas em pastagens."
     },
     {
@@ -342,7 +342,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-04/triclopir.pdf",
       "active_ingredient": "Triclopir (480 g/L)",
-      "image": "images/products/tide/triclopir-5lt.jpg",
+      "image": "images/products/tide/triclopir-5lt.png",
       "description": "Herbicida sistêmico para controle de plantas daninhas lenhosas, dicotiledôneas e gramíneas perenes em pastagens e reflorestamento."
     },
     {
@@ -357,7 +357,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-04/triclopir.pdf",
       "active_ingredient": "Triclopir (480 g/L)",
-      "image": "images/products/tide/triclopir-20lt.jpg",
+      "image": "images/products/tide/triclopir-20lt.png",
       "description": "Herbicida sistêmico para controle de plantas daninhas lenhosas, dicotiledôneas e gramíneas perenes em pastagens e reflorestamento."
     },
     {
@@ -372,7 +372,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-10/wiking600wg.pdf",
       "active_ingredient": "Metsulfurom-metílico (600 g/kg)",
-      "image": "images/products/tide/wiking-200gr.jpg",
+      "image": "images/products/tide/wiking-200gr.png",
       "description": "Herbicida sistêmico seletivo para controle pós-emergente de plantas daninhas anuais e perenes em trigo, triticale e cevada."
     },
     {
@@ -867,7 +867,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/icl/icl-concorde-rn-5lt.jpg",
+      "image": "images/products/icl/icl-concorde-rn-5lt.png",
       "description": "Fertilizante nitrogenado foliar de alta eficiencia com tecnologia de liberacao controlada, para nutricao nitrogenada complementar em culturas exigentes."
     },
     {
@@ -882,7 +882,7 @@
       "subcategory": "Foliares",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/icl/icl-concorde-rn-20lt.jpg",
+      "image": "images/products/icl/icl-concorde-rn-20lt.png",
       "description": "Fertilizante nitrogenado foliar de alta eficiencia com tecnologia de liberacao controlada, para nutricao nitrogenada complementar em culturas exigentes."
     },
     {
@@ -1452,7 +1452,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-12/glint_full.pdf",
       "active_ingredient": "Haloxifope-P-Metílico",
-      "image": "images/products/rainbow/rainbow-glint-full-5lt.jpg",
+      "image": "images/products/rainbow/rainbow-glint-full-5lt.png",
       "description": "Herbicida graminicida seletivo à base de Haloxifope-P-Metílico para controle de gramíneas daninhas anuais e perenes em culturas de soja, algodão e feijão."
     },
     {
@@ -1497,7 +1497,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.rainbowagro.com.br/wp-content/uploads/2024/07/Bula_Soldier_Rev20240520.pdf",
       "active_ingredient": "Glifosato",
-      "image": "images/products/rainbow/rainbow-soldier-5kg.jpg",
+      "image": "images/products/rainbow/rainbow-soldier-5kg.png",
       "description": "Herbicida não seletivo sistêmico à base de Glifosato em formulação granulada (WG) para controle de plantas daninhas anuais e perenes em diversas culturas."
     },
     {
@@ -1572,7 +1572,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-07/poderus.pdf",
       "active_ingredient": "Azoxistrobina e Ciproconazol",
-      "image": "images/products/ouro-fino/ourofino-poderus-20lt.jpg",
+      "image": "images/products/ouro-fino/ourofino-poderus-20lt.png",
       "description": "Fungicida sistêmico que combina estrobilurina (Azoxistrobina) e triazol (Ciproconazol) para controle preventivo e curativo de doenças em soja, milho e cereais."
     },
     {
@@ -1587,7 +1587,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2025-07/poderus.pdf",
       "active_ingredient": "Azoxistrobina e Ciproconazol",
-      "image": "images/products/ouro-fino/ourofino-poderus-5lt.jpg",
+      "image": "images/products/ouro-fino/ourofino-poderus-5lt.png",
       "description": "Fungicida sistêmico que combina estrobilurina (Azoxistrobina) e triazol (Ciproconazol) para controle preventivo e curativo de doenças em soja, milho e cereais."
     },
     {
@@ -1602,7 +1602,7 @@
       "subcategory": "Herbicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2023-02/quallis.pdf",
       "active_ingredient": "2,4-D e Picloram",
-      "image": "images/products/ouro-fino/ourofino-quallis-20lt.jpg",
+      "image": "images/products/ouro-fino/ourofino-quallis-20lt.png",
       "description": "Herbicida hormonal sistêmico com 2,4-D e Picloram para controle eficiente de plantas daninhas de difícil controle em pastagens e lavouras."
     },
     {
@@ -1617,7 +1617,7 @@
       "subcategory": "Fungicidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2024-10/teburaz.pdf",
       "active_ingredient": "Azoxistrobina e Tebuconazol",
-      "image": "images/products/ouro-fino/ourofino-teburaz-20lt.jpg",
+      "image": "images/products/ouro-fino/ourofino-teburaz-20lt.png",
       "description": "Fungicida sistêmico com estrobilurina (Azoxistrobina) e triazol (Tebuconazol), com ação protetora e curativa de amplo espectro para soja e cereais de inverno."
     },
     {
@@ -1632,7 +1632,7 @@
       "subcategory": "Inseticidas",
       "leaflet_url": "https://www.adapar.pr.gov.br/sites/adapar/arquivos_restritos/files/documento/2023-04/vivantha.pdf",
       "active_ingredient": "Tiametoxam",
-      "image": "images/products/ouro-fino/ourofino-vivantha-1kg.jpg",
+      "image": "images/products/ouro-fino/ourofino-vivantha-1kg.png",
       "description": "Inseticida sistêmico neonicotinoide (Tiametoxam) para tratamento de sementes, protege as plantas nas fases iniciais do desenvolvimento contra pragas de solo e sugadores."
     },
     {
@@ -1647,7 +1647,7 @@
       "subcategory": "Derricadores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-derricador-ch12.webp",
+      "image": "images/products/husqvarna/husqvarna-derricador-ch12.png",
       "description": "Derricador de cafe portatil leve e compacto, ideal para colheita mecanizada de pequenas propriedades cafeeiras com maior rendimento e reducao de perda de graos."
     },
     {
@@ -1662,7 +1662,7 @@
       "subcategory": "Derricadores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-derricador-kd24.webp",
+      "image": "images/products/husqvarna/husqvarna-derricador-kd24.png",
       "description": "Derricador duplo de alta capacidade para colheita de cafe, equipado com dois pentes vibratórios para máximo rendimento operacional por hora trabalhada."
     },
     {
@@ -1677,7 +1677,7 @@
       "subcategory": "Agricola",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motocultivador-tf338.webp",
+      "image": "images/products/husqvarna/husqvarna-motocultivador-tf338.png",
       "description": "Motocultivador a gasolina de baixo consumo para preparo e cultivo de solo em hortas e pequenas lavouras, com fresas robustas e facil manuseio."
     },
     {
@@ -1692,7 +1692,7 @@
       "subcategory": "Agricola",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motocultivador-tf440.webp",
+      "image": "images/products/husqvarna/husqvarna-motocultivador-tf440.png",
       "description": "Motocultivador potente e versátil para preparo profundo de solo em médias propriedades, com sistema de fresas de alto desempenho e conforto operacional."
     },
     {
@@ -1707,7 +1707,7 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motosserra-120.webp",
+      "image": "images/products/husqvarna/husqvarna-motosserra-120.png",
       "description": "Motosserra leve 14\" para uso doméstico e jardinagem, com sistema X-Torq de baixo consumo e emissão, ideal para podas e corte de lenha em pequenos volumes."
     },
     {
@@ -1722,7 +1722,7 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motosserra-272.webp",
+      "image": "images/products/husqvarna/husqvarna-motosserra-272.png",
       "description": "Motosserra profissional 20\" de alta potência e durabilidade para uso florestal e silvicultura, com grande capacidade de corte e confiabilidade em trabalhos intensos."
     },
     {
@@ -1737,7 +1737,7 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motosserra-281.webp",
+      "image": "images/products/husqvarna/husqvarna-motosserra-281.png",
       "description": "Motosserra profissional 20\" de desempenho superior para trabalhos florestais exigentes, com motor de alta potência, sabre resistente e ergonomia avançada."
     },
     {
@@ -1752,7 +1752,7 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motosserra-288.webp",
+      "image": "images/products/husqvarna/husqvarna-motosserra-288.png",
       "description": "Motosserra de grande porte 24\" para corte de madeiras pesadas e árvores de grande diâmetro, com motor de alta cilindrada e sabre longo de máxima resistência."
     },
     {
@@ -1767,7 +1767,7 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-motosserra-61.webp",
+      "image": "images/products/husqvarna/husqvarna-motosserra-61.png",
       "description": "Motosserra profissional 18\" de alta relação potência-peso para silvicultura e exploração florestal, com sistema AutoTune de ajuste automático de carburação."
     },
     {
@@ -1782,7 +1782,7 @@
       "subcategory": "Motosserras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-perfurador-541ea.webp",
+      "image": "images/products/husqvarna/husqvarna-perfurador-541ea.png",
       "description": "Perfurador de solo a gasolina para abertura de covas de plantio, instalação de mourões e postes. Motor potente com auger de alta penetração em diferentes tipos de solo."
     },
     {
@@ -1797,7 +1797,7 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-rocadeira-143rs.webp",
+      "image": "images/products/husqvarna/husqvarna-rocadeira-143rs.png",
       "description": "Roçadeira a gasolina leve e manobável para manutenção de pastagens, aceiros e áreas de difícil acesso, com baixo consumo e fácil partida."
     },
     {
@@ -1812,7 +1812,7 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-rocadeira-226k.webp",
+      "image": "images/products/husqvarna/husqvarna-rocadeira-226k.png",
       "description": "Roçadeira profissional com sistema de polia articulada para alcance em barrancos e taludes, com sistema LowVib de redução de vibrações para maior conforto."
     },
     {
@@ -1827,7 +1827,7 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-rocadeira-226rj.webp",
+      "image": "images/products/husqvarna/husqvarna-rocadeira-226rj.png",
       "description": "Roçadeira multifuncional com haste telescópica e cabeçote intercambiável para diversas aplicações em pastagens, pomares e áreas de cultivo."
     },
     {
@@ -1842,7 +1842,7 @@
       "subcategory": "Roçadeiras",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-rocadeira-541rb.webp",
+      "image": "images/products/husqvarna/husqvarna-rocadeira-541rb.png",
       "description": "Roçadeira profissional de alta potência para trabalhos intensivos em grandes áreas e vegetação densa, com motor robusto e sistema anti-vibração avançado."
     },
     {
@@ -1857,7 +1857,7 @@
       "subcategory": "Sopradores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-soprador-570bts.webp",
+      "image": "images/products/husqvarna/husqvarna-soprador-570bts.png",
       "description": "Soprador costal de grande volume de ar para limpeza de grandes áreas, colheita de café e remoção de folhagem em propriedades de médio e grande porte."
     },
     {
@@ -1872,7 +1872,7 @@
       "subcategory": "Sopradores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-soprador-125b.webp",
+      "image": "images/products/husqvarna/husqvarna-soprador-125b.png",
       "description": "Soprador a gasolina leve e compacto para jardinagem residencial e comercial, ideal para limpeza de calçadas, pátios e jardins com facilidade de manuseio."
     },
     {
@@ -1887,7 +1887,7 @@
       "subcategory": "Sopradores",
       "leaflet_url": null,
       "active_ingredient": null,
-      "image": "images/products/husqvarna/husqvarna-soprador-125bvx.webp",
+      "image": "images/products/husqvarna/husqvarna-soprador-125bvx.png",
       "description": "Soprador/aspirador a gasolina com função trituração, permite soprar e aspirar folhas com trituração integrada para facilitar o descarte do material recolhido."
     },
     {
