@@ -256,12 +256,7 @@ function loadBrandsMarquee(brands) {
   // Duplicate for seamless loop
   const all = [...brands, ...brands];
   track.innerHTML = all.map(b => `
-    <div class="brand-chip">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" opacity="0.5">
-        <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
-      </svg>
-      ${b.name}
-    </div>
+    <div class="brand-chip">${b.name}</div>
   `).join('');
 }
 
