@@ -2586,24 +2586,6 @@
       "name": "Caltim",
       "description": "Corretivos calcários de alta qualidade",
       "logo": null
-    },
-    {
-      "id": "pano-lona-bag",
-      "name": "Pano/Lona/Big Bag",
-      "description": "Panos, lonas e big bags para colheita de café",
-      "logo": null
-    },
-    {
-      "id": "equipamento",
-      "name": "Equipamentos",
-      "description": "Equipamentos e EPIs para uso agrícola",
-      "logo": null
-    },
-    {
-      "id": "sacaria",
-      "name": "Sacaria",
-      "description": "Sacos e embalagens para armazenamento agrícola",
-      "logo": null
     }
   ],
   "categories": [
