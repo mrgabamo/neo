@@ -829,7 +829,7 @@ h5 { font-size: 1rem; }
 
 .product-card-image {
   aspect-ratio: 4/3;
-  background: var(--bg-elevated);
+  background: linear-gradient(135deg, #050e17 0%, #0d2235 55%, #235576 100%);
   position: relative;
   overflow: hidden;
   display: flex;
@@ -1480,7 +1480,7 @@ h5 { font-size: 1rem; }
 .product-gallery {
   border-radius: var(--r-xl);
   overflow: hidden;
-  background: var(--bg-card);
+  background: linear-gradient(135deg, #050e17 0%, #0d2235 55%, #235576 100%);
   border: 1px solid var(--border-subtle);
   aspect-ratio: 1;
   display: flex;
