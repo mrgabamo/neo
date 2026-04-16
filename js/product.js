@@ -82,7 +82,7 @@ function renderProduct(product) {
   const info = document.getElementById('productInfo');
   if (!info) return;
 
-  const catColor = getCategoryColor(product.category);
+  const catColor = getSubcategoryColor(product.subcategory || product.category);
   const packLabel = getPackingLabel(product.packaging_type);
 
   info.innerHTML = `
@@ -239,6 +239,29 @@ function getCategoryColor(category) {
   if (c.includes('jardinage') || c.includes('agrícola') || c.includes('agricola')) return { bg: 'rgba(255,180,0,0.1)', text: '#FFB400', border: 'rgba(255,180,0,0.2)' };
   if (c.includes('colheita'))                return { bg: 'rgba(150,100,255,0.1)', text: '#9664FF', border: 'rgba(150,100,255,0.2)' };
   return { bg: 'rgba(0,232,255,0.1)', text: '#00E8FF', border: 'rgba(0,232,255,0.2)' };
+}
+
+function getSubcategoryColor(sub) {
+  const s = (sub || '').toLowerCase();
+  const c = (() => {
+    if (s.includes('inseticida'))                         return '#FF4D4D';
+    if (s.includes('fungicida'))                          return '#FF8C00';
+    if (s.includes('herbicida'))                          return '#8CC63F';
+    if (s.includes('foliare') || s.includes('foliar'))   return '#00BCD4';
+    if (s.includes('granulado'))                          return '#FFC300';
+    if (s.includes('corretivo'))                          return '#9C27B0';
+    if (s.includes('organo') || s.includes('orgâno'))    return '#1ABC9C';
+    if (s.includes('diversos') || s.includes('diverso')) return '#5C6BC0';
+    if (s.includes('motosserra'))                         return '#E91E8C';
+    if (s.includes('roçadeira') || s.includes('rocadeira')) return '#FF69B4';
+    if (s.includes('soprador'))                           return '#2196F3';
+    if (s.includes('derricador'))                         return '#2ECC71';
+    if (s.includes('agricola') || s.includes('agrícola') || s === 'agricola') return '#78909C';
+    return '#00E8FF';
+  })();
+  const hex = c.replace('#','');
+  const r = parseInt(hex.slice(0,2),16), g = parseInt(hex.slice(2,4),16), b = parseInt(hex.slice(4,6),16);
+  return { bg: `rgba(${r},${g},${b},0.12)`, text: c, border: `rgba(${r},${g},${b},0.28)` };
 }
 
 function showError(html) {

@@ -129,7 +129,7 @@ function buildProductCard(product, animDelay = 0) {
   card.className = 'product-card reveal';
   if (animDelay) card.style.transitionDelay = `${animDelay}s`;
 
-  const categoryColor = getCategoryColor(product.category);
+  const badgeColor = getSubcategoryColor(product.subcategory || product.category);
   const packLabel = getPackagingLabel(product.packaging_type);
 
   card.innerHTML = `
@@ -146,7 +146,7 @@ function buildProductCard(product, animDelay = 0) {
            </div>`
       }
       <div class="product-card-badge">
-        <span class="badge badge-primary" style="background:${categoryColor.bg};color:${categoryColor.text};border-color:${categoryColor.border}">
+        <span class="badge badge-primary" style="background:${badgeColor.bg};color:${badgeColor.text};border-color:${badgeColor.border}">
           ${product.subcategory || product.category}
         </span>
       </div>
@@ -188,6 +188,29 @@ function getCategoryColor(category) {
   return { bg: 'rgba(0,232,255,0.1)', text: '#00E8FF', border: 'rgba(0,232,255,0.2)' };
 }
 
+function getSubcategoryColor(sub) {
+  const s = (sub || '').toLowerCase();
+  const c = (() => {
+    if (s.includes('inseticida'))                         return '#FF4D4D'; // red
+    if (s.includes('fungicida'))                          return '#FF8C00'; // orange
+    if (s.includes('herbicida'))                          return '#8CC63F'; // lime
+    if (s.includes('foliare') || s.includes('foliar'))   return '#00BCD4'; // cyan
+    if (s.includes('granulado'))                          return '#FFC300'; // yellow
+    if (s.includes('corretivo'))                          return '#9C27B0'; // purple
+    if (s.includes('organo') || s.includes('orgâno'))    return '#1ABC9C'; // teal
+    if (s.includes('diversos') || s.includes('diverso')) return '#5C6BC0'; // indigo
+    if (s.includes('motosserra'))                         return '#E91E8C'; // deep pink
+    if (s.includes('roçadeira') || s.includes('rocadeira')) return '#FF69B4'; // light pink
+    if (s.includes('soprador'))                           return '#2196F3'; // blue
+    if (s.includes('derricador'))                         return '#2ECC71'; // green
+    if (s.includes('agricola') || s.includes('agrícola') || s === 'agricola') return '#78909C'; // slate
+    return '#00E8FF'; // cyan fallback
+  })();
+  const hex = c.replace('#','');
+  const r = parseInt(hex.slice(0,2),16), g = parseInt(hex.slice(2,4),16), b = parseInt(hex.slice(4,6),16);
+  return { bg: `rgba(${r},${g},${b},0.12)`, text: c, border: `rgba(${r},${g},${b},0.28)` };
+}
+
 function getPackagingLabel(type) {
   const map = {
     'GL': 'Galão', 'LT': 'Litro', 'BD': 'Balde', 'SC': 'Saco',
@@ -198,8 +221,9 @@ function getPackagingLabel(type) {
   return map[type] || type || '';
 }
 
-window.buildProductCard = buildProductCard;
-window.getCategoryColor  = getCategoryColor;
+window.buildProductCard    = buildProductCard;
+window.getCategoryColor    = getCategoryColor;
+window.getSubcategoryColor = getSubcategoryColor;
 
 /* ── Homepage: Load Featured Products ── */
 async function loadHomepageData() {
