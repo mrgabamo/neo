@@ -349,7 +349,10 @@ h5 { font-size: 1rem; }
 .navbar::before {
   content: '';
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: -1px; /* cover the border gap */
   z-index: -1;
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
