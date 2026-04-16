@@ -345,23 +345,23 @@ h5 { font-size: 1rem; }
   transition: border-color var(--t-base), box-shadow var(--t-base);
 }
 
-/* Blur lives on ::before — its own compositing layer, never destroyed */
+/* Background layer — only activates when scrolled */
 .navbar::before {
   content: '';
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
-  bottom: -1px; /* cover the border gap */
+  bottom: -1px;
   z-index: -1;
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
   background: transparent;
   transition: background var(--t-base);
 }
 
 .navbar.scrolled::before {
-  background: rgba(3, 13, 22, 0.88);
+  background: rgba(3, 13, 22, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
 }
 
 .navbar.scrolled {
