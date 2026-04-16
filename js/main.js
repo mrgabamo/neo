@@ -15,27 +15,29 @@ window.addEventListener('load', () => {
 
 /* ── Navbar scroll behaviour ── */
 const navbar = document.getElementById('navbar');
-let lastScroll = 0;
 
 if (navbar) {
-  const onScroll = () => {
-    const scrollY = window.scrollY;
+  const hasHero = !!document.querySelector('.hero'); // cache once, not on every scroll
+  let ticking = false;
+  let isScrolled = false;
 
-    if (scrollY > 40) {
-      navbar.classList.add('scrolled');
-    } else {
-      // On the homepage (has hero section) keep transparent at top
-      if (!document.querySelector('.hero')) {
-        navbar.classList.add('scrolled');
-      } else {
-        navbar.classList.remove('scrolled');
-      }
+  const updateNavbar = () => {
+    const shouldScroll = window.scrollY > 40 || !hasHero;
+    if (shouldScroll !== isScrolled) {
+      isScrolled = shouldScroll;
+      navbar.classList.toggle('scrolled', shouldScroll);
     }
-    lastScroll = scrollY;
+    ticking = false;
   };
 
-  window.addEventListener('scroll', onScroll, { passive: true });
-  onScroll(); // run once on load
+  window.addEventListener('scroll', () => {
+    if (!ticking) {
+      requestAnimationFrame(updateNavbar);
+      ticking = true;
+    }
+  }, { passive: true });
+
+  updateNavbar(); // run once on load
 }
 
 /* ── Mobile Nav ── */
