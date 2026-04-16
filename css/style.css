@@ -341,7 +341,12 @@ h5 { font-size: 1rem; }
   height: var(--nav-height);
   display: flex;
   align-items: center;
-  transition: all var(--t-base);
+  transition: background var(--t-base), box-shadow var(--t-base), border-color var(--t-base);
+}
+
+.navbar {
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
 }
 
 .navbar.scrolled {

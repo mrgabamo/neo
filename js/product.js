@@ -233,13 +233,12 @@ function getPackingLabel(type) {
 }
 
 function getCategoryColor(category) {
-  const map = {
-    'Defensivos':              { bg: 'rgba(255,80,80,0.1)',   text: '#FF5050', border: 'rgba(255,80,80,0.2)' },
-    'Fertilizantes':           { bg: 'rgba(0,200,120,0.1)',   text: '#00C878', border: 'rgba(0,200,120,0.2)' },
-    'Jardinagem/Uso Agrícola': { bg: 'rgba(255,180,0,0.1)',   text: '#FFB400', border: 'rgba(255,180,0,0.2)' },
-    'Produtos para colheita':  { bg: 'rgba(150,100,255,0.1)', text: '#9664FF', border: 'rgba(150,100,255,0.2)' },
-  };
-  return map[category] || { bg: 'rgba(0,232,255,0.1)', text: '#00E8FF', border: 'rgba(0,232,255,0.2)' };
+  const c = (category || '').toLowerCase();
+  if (c.includes('defensivo'))               return { bg: 'rgba(255,80,80,0.1)',   text: '#FF5050', border: 'rgba(255,80,80,0.2)' };
+  if (c.includes('fertilizante'))            return { bg: 'rgba(0,200,120,0.1)',   text: '#00C878', border: 'rgba(0,200,120,0.2)' };
+  if (c.includes('jardinage') || c.includes('agrícola') || c.includes('agricola')) return { bg: 'rgba(255,180,0,0.1)', text: '#FFB400', border: 'rgba(255,180,0,0.2)' };
+  if (c.includes('colheita'))                return { bg: 'rgba(150,100,255,0.1)', text: '#9664FF', border: 'rgba(150,100,255,0.2)' };
+  return { bg: 'rgba(0,232,255,0.1)', text: '#00E8FF', border: 'rgba(0,232,255,0.2)' };
 }
 
 function showError(html) {
